@@ -8,7 +8,7 @@ This documentation shows how to install a MySql database which allows the remote
   <img width="800" height="500" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/mysql_install_01.png">
 </p>  
 
-**Step2:** Install mysql-server ajd mysql-client
+**Step2:** Install mysql-server and mysql-client
 <p align="center">
   <img width="800" height="500" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/mysql_install_02.png">
 </p>  
