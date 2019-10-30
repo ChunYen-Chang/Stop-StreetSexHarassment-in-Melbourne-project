@@ -1,0 +1,823 @@
+20191029_restaurant_row_0,Clem's Island,2004,0 Evan Walker Bridge,Southbank,15,0,0
+20191029_restaurant_row_2,Roy's Cafe,2017,117 Grattan Street,Carlton,21,-37.80080042,144.9656241
+20191029_restaurant_row_3,Via Veneto,2004,234-236 Lygon Street,Carlton,120,-37.80169334,144.9672291
+20191029_restaurant_row_4,Mawal,2015,152-154 Lygon Street,Carlton,20,-37.80359309,144.9667447
+20191029_restaurant_row_5,Cafe Corretto,2016,225-229 Lygon Street,Carlton,60,-37.80004558,144.966741
+20191029_restaurant_row_6,Spice Temple,2015,8 Whiteman Street,Southbank,180,-37.82312164,144.9586604
+20191029_restaurant_row_7,Happy Bites,2007,89-91 City Road,Southbank,8,-37.8225552,144.9651132
+20191029_restaurant_row_8,Felicci's,2017,1 Phillip Court,Port Melbourne,44,-37.82600955,144.920988
+20191029_restaurant_row_9,Maio Cafe,2015,45 Collins Street,Melbourne (CBD),96,-37.81430616,144.9726281
+20191029_restaurant_row_10,Nashi,2006,45 Collins Street,Melbourne (CBD),6,-37.81430616,144.9726281
+20191029_restaurant_row_11,Lygon Food Store,2004,263 Lygon Street,Carlton,48,-37.79929755,144.966868
+20191029_restaurant_row_12,Othello,2002,6 Riverside Quay,Southbank,60,-37.82082512,144.9638287
+20191029_restaurant_row_13,Home Turf Cafe,2015,400 Epsom Road,Kensington,25,-37.78417751,144.9168903
+20191029_restaurant_row_14,San Churro,2009,23-37 Star Crescent,Docklands,64,-37.81315031,144.9378299
+20191029_restaurant_row_15,Sori Cafe,2008,174 Bellair Street,Kensington,12,-37.79360999,144.9299293
+20191029_restaurant_row_16,Gurkhas,2011,258 Lygon Street,Carlton,25,-37.80113981,144.9671684
+20191029_restaurant_row_17,Riverwalk Cafe,2008,6 Riverside Quay,Southbank,38,-37.82082512,144.9638287
+20191029_restaurant_row_18,Hotel Ibis,2008,15-21 Therry Street,Melbourne (CBD),75,-37.80713788,144.9614059
+20191029_restaurant_row_20,No35,2016,25-45 Collins Street,Melbourne (CBD),200,-37.81430616,144.9726281
+20191029_restaurant_row_21,Nila,2005,1-15 Degraves Street,Melbourne (CBD),25,-37.81760781,144.9656264
+20191029_restaurant_row_22,Tiamo Coffee,2013,303 Lygon Street,Carlton,20,-37.79822136,144.9670898
+20191029_restaurant_row_23,Wagamama,2013,3 Southgate Avenue,Southbank,96,-37.82066923,144.9662623
+20191029_restaurant_row_24,Tengu Sushi,2012,431 Little Collins Street,Melbourne (CBD),20,-37.81629333,144.9603969
+20191029_restaurant_row_25,Jarrah Restaurant & Bar,2010,24-26 Southgate Avenue,Southbank,60,-37.82038777,144.9671147
+20191029_restaurant_row_26,Classic Curry Company,2015,597 Elizabeth Street,North Melbourne,30,-37.80439444,144.958143
+20191029_restaurant_row_27,Karlos,2011,211-229 Sturt Street,Southbank,31,-37.82967464,144.9661569
+20191029_restaurant_row_28,Donoghue's,2017,550 Lonsdale Street,Melbourne (CBD),50,-37.8134766,144.9560169
+20191029_restaurant_row_29,B &B' Guette Cafe,2015,305-307 Exhibition Street,Melbourne (CBD),38,-37.80879339,144.9687626
+20191029_restaurant_row_30,Teppansan,2007,179 Russell Street,Melbourne (CBD),50,-37.81225906,144.9675307
+20191029_restaurant_row_31,Nando's,2012,258-274 Collins Street,Melbourne (CBD),80,-37.81536587,144.9648999
+20191029_restaurant_row_32,Blakes Feast,2004,113-129 Sturt Street,Southbank,50,-37.8271278,144.9669591
+20191029_restaurant_row_33,Aix Cafe Creperie Salon,2013,252-254 Flinders Lane,Melbourne (CBD),8,-37.8166033,144.9655966
+20191029_restaurant_row_34,Yummy Yummy,2007,173-181 Victoria Street,West Melbourne (Residential),4,-37.80606639,144.9556037
+20191029_restaurant_row_35,La Parisienne Pates,2012,290 Lygon Street,Carlton,10,-37.80017897,144.9673254
+20191029_restaurant_row_36,Dikstein's Corner Bar,2010,433 Little Collins Street,Melbourne (CBD),20,-37.81631094,144.9603413
+20191029_restaurant_row_37,Harbour Coffee House,2012,194-206 Harbour Esplanade,Docklands,6,-37.81396231,144.9449612
+20191029_restaurant_row_38,Subway,2017,97-103 Elizabeth Street,Melbourne (CBD),16,-37.81592157,144.9634979
+20191029_restaurant_row_39,Al Capone's Pizzeria,2013,10 Gatehouse Drive,Kensington,10,-37.79170781,144.9194456
+20191029_restaurant_row_40,Unisquare Cafe,2005,165 Pelham Street,Carlton,8,-37.80239254,144.9610729
+20191029_restaurant_row_41,Vic Fish Licensed Cafe,2003,65-81 Victoria Street,Melbourne (CBD),26,-37.80745984,144.9572395
+20191029_restaurant_row_42,Broadcast Cafe,2015,150-170 Harbour Esplanade,Docklands,90,-37.81566514,144.9458827
+20191029_restaurant_row_43,Shanghai Noodle House,2005,242-244 Little Bourke Street,Melbourne (CBD),52,-37.81213633,144.965603
+20191029_restaurant_row_44,Fraus Crepes & Chocolat,2013,345 Victoria Street,West Melbourne (Residential),60,-37.80546579,144.9499616
+20191029_restaurant_row_45,Sud,2012,217-219 King Street,Melbourne (CBD),38,-37.81514931,144.9548584
+20191029_restaurant_row_46,Ding Dong Lounge,2013,18-24 Market Lane,Melbourne (CBD),80,-37.81175137,144.9694031
+20191029_restaurant_row_47,The Essoign Club Ltd,2003,205-221 William Street,Melbourne (CBD),80,-37.81427718,144.9571446
+20191029_restaurant_row_48,Sushi Bar Rin,2003,251-257 Collins Street,Melbourne (CBD),6,-37.81635062,144.9656511
+20191029_restaurant_row_49,Red Cup,2008,106-120 Collins Street,Melbourne (CBD),50,-37.81398457,144.9693797
+20191029_restaurant_row_50,Parkville Store,2016,52 Morrah Street,Parkville,8,-37.79525038,144.9556719
+20191029_restaurant_row_51,Depot On Spencer,2007,468-470 Spencer Street,West Melbourne (Residential),10,-37.80931286,144.9497515
+20191029_restaurant_row_52,Mellow's Restaurant and Bar,2004,66-88 Lygon Street,Carlton,40,-37.80530329,144.9665747
+20191029_restaurant_row_53,Otoya,2006,221-231 Collins Street,Melbourne (CBD),30,-37.81584476,144.9663304
+20191029_restaurant_row_54,Simpsons Chips & Burgers,2014,143-153 Russell Street,Melbourne (CBD),8,-37.81310923,144.9679684
+20191029_restaurant_row_55,Lapres Midi,2012,163-169 Russell Street,Melbourne (CBD),25,-37.81246709,144.9676479
+20191029_restaurant_row_56,Restaurants,2006,122-148 Harbour Esplanade,Docklands,16,-37.81656591,144.9475776
+20191029_restaurant_row_57,Funk Fish,2017,65-81 Victoria Street,Melbourne (CBD),24,-37.80745984,144.9572395
+20191029_restaurant_row_58,Kuni's Japanese Restaurant,2012,196-226 Exhibition Street,Melbourne (CBD),70,-37.81055707,144.9704962
+20191029_restaurant_row_59,Atami Sushi & Catering,2010,613-639 Little Collins Street,Melbourne (CBD),6,-37.81818484,144.9543659
+20191029_restaurant_row_60,Malthouse Kitchen,2011,113-129 Sturt Street,Southbank,70,-37.8271278,144.9669591
+20191029_restaurant_row_61,Hardimans Hotel,2013,521-535 Macaulay Road,Kensington,230,-37.79442113,144.9283553
+20191029_restaurant_row_62,Tuscan Bar Melbourne,2014,79-85 Bourke Street,Melbourne (CBD),148,-37.81217956,144.9710404
+20191029_restaurant_row_63,Musicbox  - Karaoke Bar,2012,547-549 Elizabeth Street,North Melbourne,60,-37.80538132,144.9584784
+20191029_restaurant_row_64,Arrivederci Restaurant,2005,191 Nicholson Street,Carlton,70,-37.79568657,144.9749221
+20191029_restaurant_row_65,Indulgence Corner Bakery - Cafe,2007,267-275 Flinders Lane,Melbourne (CBD),20,-37.81710105,144.9654844
+20191029_restaurant_row_66,The Servery,2014,42-50 Rosslyn Street,West Melbourne (Residential),34,-37.80739774,144.9525725
+20191029_restaurant_row_67,Teppenyaki Inn,2003,182 Collins Street,Melbourne (CBD),120,-37.81479918,144.9674537
+20191029_restaurant_row_68,Cafe Port IT,2008,59-85 Turner Street,Port Melbourne,20,-37.82304058,144.9253775
+20191029_restaurant_row_69,The Deli Counter,2016,207-213 Queen Street,Melbourne (CBD),4,-37.81386746,144.9599073
+20191029_restaurant_row_70,Char Siu House,2007,37 Errol Street,North Melbourne,16,-37.80412429,144.9490851
+20191029_restaurant_row_71,Uni Square Cafe,2016,165 Pelham Street,Carlton,6,-37.80239254,144.9610729
+20191029_restaurant_row_72,Sushi Masa,2005,10 Bourke Street,Melbourne (CBD),8,-37.8112354,144.9725554
+20191029_restaurant_row_73,Riverslide Skate Park,2010,St Kilda Road,Melbourne (Remainder),6,-37.82065979,144.9721254
+20191029_restaurant_row_74,APT Management Pty Ltd,2012,209-215 Bourke Street,Melbourne (CBD),80,-37.81328093,144.9672994
+20191029_restaurant_row_75,Hellens MacAulay Road Takeaway,2004,413-431 Macaulay Road,Kensington,2,-37.794995,144.9327735
+20191029_restaurant_row_76,Sinbad's Middle Eastern Cuisine,2011,740-750 Swanston Street,Carlton,16,-37.79899938,144.9647653
+20191029_restaurant_row_77,Melbourne Pizza Bar,2005,181-183 King Street,Melbourne (CBD),6,-37.81589843,144.9551743
+20191029_restaurant_row_78,Portside Deli,2003,3 Central Boulevard,Port Melbourne,47,-37.82221049,144.9187862
+20191029_restaurant_row_79,La Di Da,2017,188-202 King Street,Melbourne (CBD),80,-37.81551353,144.9556244
+20191029_restaurant_row_80,Nando's Melbourne Central,2012,183-265 La Trobe Street,Melbourne (CBD),122,-37.81073331,144.9630189
+20191029_restaurant_row_81,Red Silks Restaurant,2004,194-200 Bourke Street,Melbourne (CBD),125,-37.8124312,144.9672768
+20191029_restaurant_row_82,French Lettuce,2012,237-239 Nicholson Street,Carlton,9,-37.79439894,144.9751345
+20191029_restaurant_row_83,Kimurakan Japanese Cafe,2009,238 Little Bourke Street,Melbourne (CBD),60,-37.81224859,144.9657813
+20191029_restaurant_row_84,"Mischas Pizza, Pasta & Salad",2013,37-43 Caravel Lane,Docklands,100,-37.8149263,144.9406594
+20191029_restaurant_row_85,Degani Bakery Cafe @ Galleria,2011,385 Bourke Street,Melbourne (CBD),30,-37.81491502,144.9629442
+20191029_restaurant_row_86,Errol's Pantry Bakehouse,2005,69-71 Errol Street,North Melbourne,40,-37.80345572,144.9490835
+20191029_restaurant_row_87,Petty Sessions Cafe,2012,247-257 William Street,Melbourne (CBD),120,-37.81317907,144.9566979
+20191029_restaurant_row_88,Golden House Chinese Restaurant,2009,63-85 Queens Bridge Street,Southbank,96,-37.82386991,144.9612916
+20191029_restaurant_row_89,KFC Carlton,2007,743-751 Swanston Street,Carlton,10,-37.8006201,144.9636423
+20191029_restaurant_row_90,Tokio Japanese Take-Away,2012,309-325 Bourke Street,Melbourne (CBD),15,-37.81445406,144.9645323
+20191029_restaurant_row_91,McDonald's,2011,468-478 Collins Street,Melbourne (CBD),68,-37.81753764,144.9583339
+20191029_restaurant_row_92,Murasaki Japanese Restaurant,2008,24-30 Russell Street,Melbourne (CBD),80,-37.81599798,144.9698948
+20191029_restaurant_row_93,Spicy Fish Restaurant,2010,222-244 Bourke Street,Melbourne (CBD),80,-37.81272047,144.9662952
+20191029_restaurant_row_94,Water & Grass,2008,32-38 Bourke Street,Melbourne (CBD),12,-37.81136083,144.9719781
+20191029_restaurant_row_95,Tribel Cafe,2008,Peel Street,Melbourne (CBD),16,-37.80745984,144.9572395
+20191029_restaurant_row_96,Hungry Jack's,2012,151-169 Kings Way,Southbank,30,-37.82864999,144.9638608
+20191029_restaurant_row_97,Kerekere,2014,207-227 City Road,Southbank,46,-37.82576299,144.9612867
+20191029_restaurant_row_98,Market Lane Coffee,2015,176-178 Faraday Street,Carlton,4,-37.79857335,144.9684894
+20191029_restaurant_row_99,Hopscotch,2017,4 Riverside Quay,Southbank,200,-37.82092509,144.9633758
+20191029_restaurant_row_100,Mum Mum Asian Street Food,2016,65-67 Flemington Road,North Melbourne,4,-37.79936937,144.9540004
+20191029_restaurant_row_101,Von Haus,2013,54-62 Bourke Street,Melbourne (CBD),29,-37.81156933,144.9713808
+20191029_restaurant_row_102,Curry Paradise,2011,221-231 Collins Street,Melbourne (CBD),48,-37.81584476,144.9663304
+20191029_restaurant_row_103,Breadtop Bakery,2014,221 Little Lonsdale Street,Melbourne (CBD),20,-37.810658,144.9657034
+20191029_restaurant_row_104,Victoria Street Cafe,2005,268-276 Victoria Street,North Melbourne,12,-37.80580455,144.9573902
+20191029_restaurant_row_105,Shuji Sushi,2010,45-49 Bourke Street,Melbourne (CBD),80,-37.8119837,144.9719053
+20191029_restaurant_row_106,Papa Guiseppe Pizza & Pasta,2012,340-348 Abbotsford Street,North Melbourne,16,-37.798728,144.9465069
+20191029_restaurant_row_107,Breeze Cafe,2010,285-287 La Trobe Street,Melbourne (CBD),8,-37.81074698,144.9608289
+20191029_restaurant_row_108,Bellissimo Cucina & Trattoria,2009,425-427 Docklands Drive,Docklands,100,-37.81517782,144.9390269
+20191029_restaurant_row_109,Cafe Meditteranean,2008,220-226 Collins Street,Melbourne (CBD),32,-37.81528474,144.9661258
+20191029_restaurant_row_110,Jasper Kitchen,2012,489-499 Elizabeth Street,Melbourne (CBD),8,-37.80750344,144.9596331
+20191029_restaurant_row_111,The Brasserie by Phillippe Mouchel,2009,8 Whiteman Street,Southbank,70,-37.82312164,144.9586604
+20191029_restaurant_row_112,Watergate Convenience Store & Cafe Bar,2008,2-24 Waterview Walk,Docklands,12,-37.81925128,144.9479753
+20191029_restaurant_row_113,Treasury Eats Cafe,2008,1 MacArthur Street,East Melbourne,100,-37.81264492,144.9755868
+20191029_restaurant_row_114,Sushi Hut,2016,353-359 Little Collins Street,Melbourne (CBD),6,-37.81570426,144.9629844
+20191029_restaurant_row_115,By Korea,2013,212-222 La Trobe Street,Melbourne (CBD),44,-37.80962882,144.9628763
+20191029_restaurant_row_116,La Trobe Cafe,2009,360 La Trobe Street,Melbourne (CBD),8,-37.8107204,144.9591368
+20191029_restaurant_row_117,Eat Drink Bento,2004,115-123 Hardware Street,Melbourne (CBD),44,-37.81210735,144.9603936
+20191029_restaurant_row_118,Gurkha's Express,2012,492-500 Flinders Street,Melbourne (CBD),60,-37.81999599,144.9578288
+20191029_restaurant_row_119,Melbourne Aquarium,2007,King Street,Melbourne (CBD),146,-37.8204728,144.9589895
+20191029_restaurant_row_120,Cafe 5ive 70,2013,562-574 Bourke Street,Melbourne (CBD),50,-37.81550891,144.9567557
+20191029_restaurant_row_121,Crouton Cafe,2013,520-528 Victoria Street,North Melbourne,8,-37.80474738,144.9487135
+20191029_restaurant_row_122,Sugarbun,2015,205-207 Russell Street,Melbourne (CBD),60,-37.81169847,144.9672984
+20191029_restaurant_row_123,Phoenix Cafe,2004,347-349 King Street,West Melbourne (Residential),52,-37.81214527,144.9535142
+20191029_restaurant_row_124,Chocolate Buddha,2014,2 Swanston Street,Melbourne (CBD),93,-37.81784465,144.9699175
+20191029_restaurant_row_125,Namaste On King Indian Restaurant,2009,225-237 King Street,Melbourne (CBD),85,-37.81488684,144.9547419
+20191029_restaurant_row_126,Schwobs Swiss,2002,479-495 La Trobe Street,Melbourne (CBD),20,-37.81275166,144.9549514
+20191029_restaurant_row_127,Viet St,2017,353-359 Little Collins Street,Melbourne (CBD),5,-37.81570426,144.9629844
+20191029_restaurant_row_128,Cafe Maschera,2007,548-558 Little Bourke Street,Melbourne (CBD),80,-37.81491966,144.9559421
+20191029_restaurant_row_129,Primary Cafe,2007,381-405 Royal Parade,Parkville,70,-37.78398214,144.9586811
+20191029_restaurant_row_130,Yo-Chi,2017,194-196 Faraday Street,Carlton,24,-37.79844782,144.9680207
+20191029_restaurant_row_131,Redback Brewery Hotel,2003,75-79 Flemington Road,North Melbourne,213,-37.79895071,144.9533473
+20191029_restaurant_row_132,Dragon Boat Palace,2016,149-155 Lonsdale Street,Melbourne (CBD),380,-37.81090617,144.9680174
+20191029_restaurant_row_133,Sushi Sun,2003,72 Victoria Street,Carlton,29,-37.80670799,144.9654212
+20191029_restaurant_row_134,Tigerlily Cafe,2012,111-113 Grattan Street,Carlton,52,-37.80081687,144.9657698
+20191029_restaurant_row_135,Trend Cafe,2015,369-379 King Street,West Melbourne (Residential),12,-37.81166257,144.9532514
+20191029_restaurant_row_136,Noosh,2009,299-319 Queen Street,Melbourne (CBD),15,-37.81145082,144.9586601
+20191029_restaurant_row_138,Tokyo Garden,2005,360 La Trobe Street,Melbourne (CBD),45,-37.8107204,144.9591368
+20191029_restaurant_row_139,Cafe 123,2010,123-129 Lonsdale Street,Melbourne (CBD),4,-37.81072687,144.9686769
+20191029_restaurant_row_140,Izakaya Den,2013,114-120 Russell Street,Melbourne (CBD),52,-37.81350285,144.9689753
+20191029_restaurant_row_141,Sarti Restaurant & Bar,2007,188-194 Little Collins Street,Melbourne (CBD),50,-37.81390779,144.9675807
+20191029_restaurant_row_142,Queensberry Lunch Bar,2004,680-684 Queensberry Street,North Melbourne,6,-37.80234575,144.944795
+20191029_restaurant_row_143,Kenny's Bakery Cafe,2009,184-192 Queen Street,Melbourne (CBD),6,-37.81402844,144.9606804
+20191029_restaurant_row_144,Koko Black,2011,331-339 Bourke Street,Melbourne (CBD),60,-37.81458812,144.964049
+20191029_restaurant_row_145,Nudel Bar,2007,76 Bourke Street,Melbourne (CBD),11,-37.81170263,144.9709443
+20191029_restaurant_row_146,Kawa Japanese Takeaway,2006,550 Lonsdale Street,Melbourne (CBD),10,-37.8134766,144.9560169
+20191029_restaurant_row_147,Masani's Italian Dinning & Terrace,2012,313-315 Drummond Street,Carlton,100,-37.79837995,144.968492
+20191029_restaurant_row_148,Lady Jade Tea House,2005,538-542 Little Collins Street,Melbourne (CBD),6,-37.81695942,144.956774
+20191029_restaurant_row_149,Alf's Cafe,2015,23-99 Commercial Road,Melbourne (Remainder),244,-37.84633593,144.982664
+20191029_restaurant_row_150,Bread Kingdom,2015,364-372 Lonsdale Street,Melbourne (CBD),10,-37.81220274,144.9614561
+20191029_restaurant_row_151,Hudson's Coffee,2005,410-420 Elizabeth Street,Melbourne (CBD),36,-37.80894909,144.9611573
+20191029_restaurant_row_152,Sally's Kitchen,2015,295-301 Exhibition Street,Melbourne (CBD),50,-37.80893166,144.9688284
+20191029_restaurant_row_153,Flower Drum,2009,124-128 Bourke Street,Melbourne (CBD),140,-37.81207094,144.9692645
+20191029_restaurant_row_154,Vibe Savoy Hotel Melbourne,2015,626-636 Little Collins Street,Melbourne (CBD),130,-37.81777221,144.9539293
+20191029_restaurant_row_155,Malaysian Oriental Wok,2010,309-325 Bourke Street,Melbourne (CBD),10,-37.81445406,144.9645323
+20191029_restaurant_row_156,Lakeside Bistro,2013,Elliott Avenue,Parkville,240,-37.78428452,144.9514349
+20191029_restaurant_row_157,Imperial Hotel,2002,2-8 Bourke Street,Melbourne (CBD),100,-37.8112003,144.972676
+20191029_restaurant_row_158,Hanaichi,2011,221 Little Lonsdale Street,Melbourne (CBD),24,-37.810658,144.9657034
+20191029_restaurant_row_159,Cafe Tre Sette,2013,139-143 Bouverie Street,Carlton,45,-37.80322367,144.9616994
+20191029_restaurant_row_160,Basso,2008,162-168 Collins Street,Melbourne (CBD),4,-37.81450301,144.9678476
+20191029_restaurant_row_161,Crust Gourmet Pizza Bar Kensington,2013,532-534 Macaulay Road,Kensington,8,-37.79401627,144.9284337
+20191029_restaurant_row_162,Toto's Pizza,2005,99-109 Lygon Street,Carlton,96,-37.80449163,144.9659744
+20191029_restaurant_row_163,Starbucks Coffee Company,2002,430-442 Collins Street,Melbourne (CBD),60,-37.81703239,144.9597623
+20191029_restaurant_row_164,Cafe No 2,2013,476-602 Footscray Road,West Melbourne (Industrial),68,-37.80663448,144.9231563
+20191029_restaurant_row_165,Chillipadi,2011,183-265 La Trobe Street,Melbourne (CBD),150,-37.81073331,144.9630189
+20191029_restaurant_row_166,Fix - Jamm Room,2008,439-441 Docklands Drive,Docklands,100,-37.81517782,144.9390269
+20191029_restaurant_row_167,Cafe Segovia,2004,317-321 Little Collins Street,Melbourne (CBD),16,-37.81528948,144.9642254
+20191029_restaurant_row_169,Delight Sandwich Bar,2008,259-263 Collins Street,Melbourne (CBD),22,-37.81620631,144.9653407
+20191029_restaurant_row_170,Origami Sushi & Noodles,2017,744-770 Bourke Street,Docklands,12,-37.81817241,144.947217
+20191029_restaurant_row_172,1 O 1 Deli,2006,114-128 Flinders Street,Melbourne (CBD),10,-37.81595762,144.9707353
+20191029_restaurant_row_173,Mad Mex,2015,20-30 Convention Centre Place,Southbank,28,-37.82539976,144.9523782
+20191029_restaurant_row_174,BMWMelbourne Pty Ltd,2005,102-156 City Road,Southbank,24,-37.82289124,144.9629727
+20191029_restaurant_row_175,Rajah of India,2006,70-74 Rosslyn Street,West Melbourne (Residential),50,-37.80775631,144.9520393
+20191029_restaurant_row_176,Solah,2013,240-254 Victoria Parade,East Melbourne,44,-37.80919457,144.9799791
+20191029_restaurant_row_177,Cafe 1899,2005,445-447 Queensberry Street,North Melbourne,6,-37.80357227,144.952777
+20191029_restaurant_row_178,Va Bene Pizzeria,2012,143-175 Harbour Esplanade,Docklands,30,-37.8165193,144.9435654
+20191029_restaurant_row_179,Sopranos,2007,89-91 City Road,Southbank,20,-37.8225552,144.9651132
+20191029_restaurant_row_180,The Pavilion,2017,Wellington Parade,East Melbourne,86,-37.81296163,144.9804557
+20191029_restaurant_row_181,The Sensible Sandwich Cafe,2010,464-468 Victoria Street,North Melbourne,6,-37.80500905,144.9505407
+20191029_restaurant_row_182,Cafe Giraffe,2009,302-304 Little Lonsdale Street,Melbourne (CBD),50,-37.81151662,144.960506
+20191029_restaurant_row_183,O-Bento,2011,494-512 Bourke Street,Melbourne (CBD),50,-37.81494883,144.9587607
+20191029_restaurant_row_184,Maria Trattoria,2009,122-124 Peel Street,North Melbourne,80,-37.80519937,144.9564599
+20191029_restaurant_row_185,Flagstaff City,2016,45-55 Dudley Street,West Melbourne (Residential),30,-37.81010661,144.951028
+20191029_restaurant_row_186,Schnitz,2009,231-233 Exhibition Street,Melbourne (CBD),16,-37.81051104,144.9695206
+20191029_restaurant_row_187,Nyonya Restaurant,2005,191 Lygon Street,Carlton,100,-37.80114228,144.9664967
+20191029_restaurant_row_188,Sumo Salad,2017,85-161 Spencer Street,Docklands,12,-37.81815358,144.9523393
+20191029_restaurant_row_189,Othello Greek Restaurant,2005,6 Riverside Quay,Southbank,100,-37.82082512,144.9638287
+20191029_restaurant_row_190,Markov,2007,350-352 Drummond Street,Carlton,10,-37.79771074,144.9692712
+20191029_restaurant_row_191,Riverside Deli & Coffee House,2017,472-482 Flinders Street,Melbourne (CBD),12,-37.81974184,144.9582721
+20191029_restaurant_row_192,Cafe Vista,2015,163-261 Spencer Street,Docklands,70,-37.81501701,144.951187
+20191029_restaurant_row_193,Goldern Nugget,2004,117-121 Lonsdale Street,Melbourne (CBD),50,-37.8107614,144.9689024
+20191029_restaurant_row_194,Di Bella Coffee,2017,19-21 Leveson Street,North Melbourne,60,-37.80447359,144.9505945
+20191029_restaurant_row_195,TGI Fridays Restarant & Bar,2015,183-265 La Trobe Street,Melbourne (CBD),330,-37.81073331,144.9630189
+20191029_restaurant_row_196,Zed Lounge & Cafe,2003,223 Victoria Street,West Melbourne (Residential),60,-37.80590009,144.9540448
+20191029_restaurant_row_197,Yeonga,2017,1-3 Cobden Street,North Melbourne,96,-37.80560474,144.956923
+20191029_restaurant_row_198,Foo-Go's,2013,258 Elgin Street,Carlton,45,-37.79670704,144.9655339
+20191029_restaurant_row_199,Amigos Hardware Lane,2017,75-77 Hardware Lane,Melbourne (CBD),44,-37.8131434,144.9608667
+20191029_restaurant_row_200,Sensory Lab,2015,299-307 Bourke Street,Melbourne (CBD),8,-37.81436987,144.9648958
+20191029_restaurant_row_201,ES Teler 77,2014,269-321 Lonsdale Street,Melbourne (CBD),6,-37.81245199,144.9638386
+20191029_restaurant_row_202,Cafe Diy,2008,121 William Street,Melbourne (CBD),32,-37.81636534,144.9578132
+20191029_restaurant_row_204,The Mill,2009,67-73 Hardware Lane,Melbourne (CBD),44,-37.81323451,144.960908
+20191029_restaurant_row_205,Degani Bakery Cafe,2008,372-380 Albert Street,East Melbourne,10,-37.80963919,144.9787048
+20191029_restaurant_row_207,Carlton Espresso,2004,326-328 Lygon Street,Carlton,28,-37.79932164,144.9674735
+20191029_restaurant_row_208,Cocoa Espresso,2015,75-77 Flinders Lane,Melbourne (CBD),18,-37.81514512,144.9722399
+20191029_restaurant_row_209,New York Tavern,2008,62-66 King Street,Melbourne (CBD),20,-37.81874137,144.9571409
+20191029_restaurant_row_211,Brioche by Phillip,2016,114-120 Russell Street,Melbourne (CBD),3,-37.81350285,144.9689753
+20191029_restaurant_row_212,Maestro Meze Bar,2006,211-213 Franklin Street,Melbourne (CBD),8,-37.8097181,144.957829
+20191029_restaurant_row_213,Salero Kito Padang Melbourne,2015,235-251 Bourke Street,Melbourne (CBD),30,-37.81376503,144.9665978
+20191029_restaurant_row_214,Golden Buddha Lounge,2015,244-250 Queen Street,Melbourne (CBD),90,-37.81269018,144.959964
+20191029_restaurant_row_215,Leela Wadee,2008,445-447 Queensberry Street,North Melbourne,50,-37.80357227,144.952777
+20191029_restaurant_row_216,Nelayan,2015,265-267 Swanston Street,Melbourne (CBD),62,-37.81201046,144.9646021
+20191029_restaurant_row_217,Cafe Itch,2011,161-169 Elgin Street,Carlton,12,-37.79757961,144.969295
+20191029_restaurant_row_218,Gi Gi Japanese Sushi,2009,237 Swanston Street,Melbourne (CBD),53,-37.81244693,144.9648043
+20191029_restaurant_row_219,Han Guuk Guan Korean Restaurant,2012,13A Victoria Street,Melbourne (CBD),100,-37.8075865,144.9679821
+20191029_restaurant_row_220,O Sushi,2009,143-153 Russell Street,Melbourne (CBD),6,-37.81310923,144.9679684
+20191029_restaurant_row_221,QB's Cafe,2006,261-263 Queensberry Street,Carlton,50,-37.80440558,144.9599256
+20191029_restaurant_row_222,Chinatown Dumpling Restaurant,2009,248-258 Swanston Street,Melbourne (CBD),50,-37.81199559,144.9652504
+20191029_restaurant_row_223,Club Asuka,2014,59-63 Bourke Street,Melbourne (CBD),80,-37.81212537,144.9715659
+20191029_restaurant_row_224,The Gourmet Baked Potato Cafe,2004,34 Errol Street,North Melbourne,30,-37.80435713,144.9497225
+20191029_restaurant_row_225,North Melbourne Takeaway & Snack Bar,2012,95 Dryburgh Street,North Melbourne,17,-37.80428921,144.9429106
+20191029_restaurant_row_226,Spanish Doughnuts,2010,274-282 Flinders Street,Melbourne (CBD),6,-37.81763649,144.965095
+20191029_restaurant_row_227,Langleys,2013,654-670 Bourke Street,Melbourne (CBD),11,-37.81626998,144.9540371
+20191029_restaurant_row_228,Meyers Place Bar,2014,20 Meyers Place,Melbourne (CBD),50,-37.81207814,144.9723505
+20191029_restaurant_row_229,City Convenience Store,2005,228-236 Flinders Street,Melbourne (CBD),20,-37.81724878,144.9665517
+20191029_restaurant_row_230,John Curtin Hotel,2009,27-31 Lygon Street,Carlton,71,-37.80619915,144.9656988
+20191029_restaurant_row_231,Urban Central Accomodation,2009,334-342 City Road,Southbank,50,-37.82783816,144.9573539
+20191029_restaurant_row_232,The Grey Smith,2016,122-130 Wellington Parade,East Melbourne,28,-37.81609349,144.9859889
+20191029_restaurant_row_233,Wing Loong Chinese Restaurant,2016,506-516 Elizabeth Street,Melbourne (CBD),60,-37.80671508,144.9601828
+20191029_restaurant_row_235,Altitude,2004,163-169 Russell Street,Melbourne (CBD),55,-37.81246709,144.9676479
+20191029_restaurant_row_236,Royal Standard Hotel,2007,333-337 William Street,West Melbourne (Residential),150,-37.80781408,144.9542537
+20191029_restaurant_row_237,Tsindos Greek Restaurant,2002,197 Lonsdale Street,Melbourne (CBD),80,-37.81128456,144.9665765
+20191029_restaurant_row_238,LeCirque,2016,23-37 Star Crescent,Docklands,25,-37.81315031,144.9378299
+20191029_restaurant_row_239,La Vita Buona 'The Good Life',2010,199-209 Collins Street,Melbourne (CBD),12,-37.81584777,144.9674304
+20191029_restaurant_row_240,Double Gauge,2015,840-850 Collins Street,Docklands,75,-37.82092961,144.9445328
+20191029_restaurant_row_241,The Mint Bar & Bistro,2007,318 William Street,Melbourne (CBD),48,-37.81209045,144.9573609
+20191029_restaurant_row_242,Turf Club Hotel,2017,1-3 Flemington Road,North Melbourne,64,-37.80130394,144.9563792
+20191029_restaurant_row_243,Golden Monkey,2006,389-395 Lonsdale Street,Melbourne (CBD),80,-37.81288006,144.9610121
+20191029_restaurant_row_244,Lonsdale Deli,2002,19-21 Lonsdale Street,Melbourne (CBD),3,-37.80981882,144.9715313
+20191029_restaurant_row_245,Degani At Urban Workshop,2017,32-54 Lonsdale Street,Melbourne (CBD),36,-37.8091842,144.9707325
+20191029_restaurant_row_246,The Dallas Deli,2002,180-184 Victoria Parade,East Melbourne,4,-37.80895362,144.9778946
+20191029_restaurant_row_247,University High School Canteen,2017,77 Story Street,Parkville,100,-37.79746671,144.9560633
+20191029_restaurant_row_248,Rejuice Bar & Cafe,2007,16-32 Rakaia Way,Docklands,10,-37.81460533,144.9412614
+20191029_restaurant_row_249,Royal Park Hotel/Pub,2010,399-405 Queensberry Street,North Melbourne,35,-37.80378609,144.9543149
+20191029_restaurant_row_250,Yue Hing Gourmet,2003,393-401 St Kilda Road,Melbourne (Remainder),8,-37.83570366,144.9760426
+20191029_restaurant_row_251,Madisons Restaurant Bar Lounge,2004,457-471 Bourke Street,Melbourne (CBD),37,-37.81547268,144.9601886
+20191029_restaurant_row_252,Snapperhead Fish And Chips,2011,38-48 Haines Street,North Melbourne,7,-37.79823272,144.9466965
+20191029_restaurant_row_253,Butcher Shop Cafe,2016,72 Hawke Street,West Melbourne (Residential),22,-37.8080043,144.945578
+20191029_restaurant_row_254,El Subor,2015,500 Victoria Street,North Melbourne,70,-37.804917,144.9496812
+20191029_restaurant_row_255,Cafe Ella,2009,553-555 St Kilda Road,Melbourne (Remainder),84,-37.84685298,144.9803782
+20191029_restaurant_row_256,Cacao Fine Chocolates And Patisserie,2012,500-514 Collins Street,Melbourne (CBD),10,-37.81753383,144.9574732
+20191029_restaurant_row_257,La Cacciatora Restaurant,2011,218-224 Drummond Street,Carlton,80,-37.80116198,144.9685975
+20191029_restaurant_row_258,Threefold,2013,381-387 Flinders Lane,Melbourne (CBD),30,-37.81825094,144.961389
+20191029_restaurant_row_259,Meat Ball,2013,133-135 Flinders Lane,Melbourne (CBD),53,-37.81573536,144.9701585
+20191029_restaurant_row_260,Purple Peanuts Japanese Cafe,2014,612-624 Collins Street,Melbourne (CBD),15,-37.81867544,144.9543505
+20191029_restaurant_row_261,Alice Nevins,2017,228-236 Flinders Street,Melbourne (CBD),10,-37.81724878,144.9665517
+20191029_restaurant_row_262,ec Pot Cafe Bar,2007,221 Little Lonsdale Street,Melbourne (CBD),60,-37.810658,144.9657034
+20191029_restaurant_row_263,Original Sushi Bar,2005,331-339 Bourke Street,Melbourne (CBD),6,-37.81458812,144.964049
+20191029_restaurant_row_264,Portland Hotel,2008,115-127 Russell Street,Melbourne (CBD),40,-37.81367486,144.9681892
+20191029_restaurant_row_265,Minang Nasi Padang,2012,640 Swanston Street,Carlton,24,-37.80188571,144.9643119
+20191029_restaurant_row_266,Chine On Paramount / Chine Express,2013,100-116 Bourke Street,Melbourne (CBD),100,-37.81170307,144.9697778
+20191029_restaurant_row_267,Goldilocks,2017,264-266 Swanston Street,Melbourne (CBD),40,-37.81181063,144.9651474
+20191029_restaurant_row_268,.Com Internet Cafe,2002,349 Elizabeth Street,Melbourne (CBD),32,-37.81067436,144.9612081
+20191029_restaurant_row_270,Curry Bowl,2009,222-260 Elizabeth Street,Melbourne (CBD),12,-37.81261442,144.9628783
+20191029_restaurant_row_272,St Arnou,2004,582-584 Little Collins Street,Melbourne (CBD),101,-37.81740928,144.9553525
+20191029_restaurant_row_273,Cafenatics,2009,737-743 Bourke Street,Docklands,56,-37.81914692,144.9489519
+20191029_restaurant_row_275,Blu Point Caffe,2017,336 Russell Street,Melbourne (CBD),26,-37.80822377,144.9664575
+20191029_restaurant_row_276,The Pancake Parlour,2015,183-265 La Trobe Street,Melbourne (CBD),160,-37.81073331,144.9630189
+20191029_restaurant_row_277,Replay cafe,2016,397-407 Docklands Drive,Docklands,6,-37.81427742,144.9401994
+20191029_restaurant_row_279,Choix Creperie Cafe,2012,612-624 Collins Street,Melbourne (CBD),16,-37.81867544,144.9543505
+20191029_restaurant_row_280,Elceed Cafe,2017,610 Queensberry Street,North Melbourne,24,-37.80252643,144.9471385
+20191029_restaurant_row_281,Chatime,2016,221 Little Lonsdale Street,Melbourne (CBD),10,-37.810658,144.9657034
+20191029_restaurant_row_282,Tarng,2016,19-37 A'Beckett Street,Melbourne (CBD),40,-37.80894099,144.9626101
+20191029_restaurant_row_283,Velour,2010,121-123 Flinders Lane,Melbourne (CBD),50,-37.81567009,144.9705132
+20191029_restaurant_row_284,Zero Gravity Cafe Bar,2010,359-373 Collins Street,Melbourne (CBD),100,-37.81728432,144.9624418
+20191029_restaurant_row_285,Healthy Habits,2016,3-5 Star Circus,Docklands,10,-37.81315031,144.9378299
+20191029_restaurant_row_286,Limerick Castle Hotel & Restaurant,2012,161-163 Errol Street,North Melbourne,60,-37.80114341,144.9496139
+20191029_restaurant_row_287,Schwob's Swiss Gourmet Sandwich Bar,2002,509-515 St Kilda Road,Melbourne (Remainder),18,-37.8441033,144.9793624
+20191029_restaurant_row_288,Sakura Sushi Express,2008,389-395 Lonsdale Street,Melbourne (CBD),8,-37.81288006,144.9610121
+20191029_restaurant_row_289,Hungry Boys Cafe,2009,477 King Street,West Melbourne (Residential),6,-37.80886049,144.9516854
+20191029_restaurant_row_290,Summit Cafe & Bar,2007,694-704 Collins Street,Docklands,40,-37.81949297,144.9508705
+20191029_restaurant_row_292,Shenis Curries,2004,141-165 Collins Street,Melbourne (CBD),30,-37.81543178,144.9687553
+20191029_restaurant_row_293,Norsiah's Kitchen,2007,640 Swanston Street,Carlton,10,-37.80188571,144.9643119
+20191029_restaurant_row_294,Cafe 108,2004,106-116 A'Beckett Street,Melbourne (CBD),102,-37.80914342,144.9599969
+20191029_restaurant_row_295,The Tea Room,2014,130-200 St Kilda Road,Southbank,80,-37.82281707,144.9686338
+20191029_restaurant_row_296,Cafe 99,2007,98-166 Macaulay Road,North Melbourne,10,-37.79717284,144.9421193
+20191029_restaurant_row_297,Sea Salt,2017,256-268 Flinders Street,Melbourne (CBD),26,-37.81760781,144.9656264
+20191029_restaurant_row_298,Auction Rooms,2012,103-107 Errol Street,North Melbourne,104,-37.8024571,144.9494609
+20191029_restaurant_row_299,Domino's Pizza,2017,251-257 Cardigan Street,Carlton,15,-37.80077102,144.9651037
+20191029_restaurant_row_300,Egon's Conditorei Cafe and Bakery,2004,8 Collins Street,Melbourne (CBD),8,-37.81314231,144.9732575
+20191029_restaurant_row_301,Fo Guang Yuan Art Gallery,2013,131-141 Queen Street,Melbourne (CBD),60,-37.81549904,144.9605409
+20191029_restaurant_row_302,Kirk's Wine Bar,2014,380-384 Little Bourke Street,Melbourne (CBD),22,-37.81354346,144.9613283
+20191029_restaurant_row_303,Locusta,2007,171 Lygon Street,Carlton,95,-37.80165695,144.9664692
+20191029_restaurant_row_304,Espresso Hub,2014,641-679 Collins Street,Docklands,60,-37.81969578,144.9530968
+20191029_restaurant_row_306,Zio's Ristorante,2005,14 Lansdowne Street,East Melbourne,60,-37.80938005,144.9786966
+20191029_restaurant_row_307,Reflex Cafe,2005,1010 La Trobe Street,Docklands,50,-37.81400139,144.9455391
+20191029_restaurant_row_308,Jimmybeans Cafe,2008,224-252 La Trobe Street,Melbourne (CBD),4,-37.80965592,144.9623409
+20191029_restaurant_row_309,Scusami /L'osteria,2010,3 Southgate Avenue,Southbank,60,-37.82066923,144.9662623
+20191029_restaurant_row_310,The J Walk Cafe,2006,150 Lonsdale Street,Melbourne (CBD),80,-37.81012652,144.967574
+20191029_restaurant_row_312,"The Attic, Artisan Bread And Cafe",2017,578-606 Bourke Street,Melbourne (CBD),6,-37.81571393,144.9561073
+20191029_restaurant_row_314,Ajisen Ramen,2006,130-132 Bourke Street,Melbourne (CBD),60,-37.81223835,144.9691823
+20191029_restaurant_row_315,Becco,2014,11-25 Crossley Street,Melbourne (CBD),16,-37.81143018,144.9710142
+20191029_restaurant_row_317,Cafe Vicolino,2007,258-260 Flinders Lane,Melbourne (CBD),6,-37.81664468,144.9654744
+20191029_restaurant_row_318,The Fine Food Pantry,2011,132-142 Wellington Parade,East Melbourne,9,-37.81618515,144.9855915
+20191029_restaurant_row_319,Blu Fish,2012,578-606 Bourke Street,Melbourne (CBD),28,-37.81571393,144.9561073
+20191029_restaurant_row_320,Watershed Carwash & Cafe,2014,438-452 Spencer Street,West Melbourne (Residential),12,-37.80973186,144.9501054
+20191029_restaurant_row_321,Lorca,2014,258-260 Flinders Lane,Melbourne (CBD),18,-37.81664468,144.9654744
+20191029_restaurant_row_322,Taco Bill,2017,457-469 Macaulay Road,Kensington,12,-37.79484451,144.9315233
+20191029_restaurant_row_323,L'Amore Pizza & Restaurant,2013,744-770 Bourke Street,Docklands,32,-37.81817241,144.947217
+20191029_restaurant_row_324,Metro Hotel & Suites,2004,133-143 Jolimont Road,East Melbourne,55,-37.81796562,144.9782701
+20191029_restaurant_row_325,Animal Orchestra,2014,163 Grattan Street,Carlton,88,-37.80059737,144.9634206
+20191029_restaurant_row_326,Cafe Trevi,2014,294-296 Lygon Street,Carlton,36,-37.80004498,144.9673485
+20191029_restaurant_row_327,Metropolitan Hotel,2014,263-267 William Street,Melbourne (CBD),16,-37.81292397,144.9565837
+20191029_restaurant_row_328,3 Lt Monkeys,2017,252-254 Flinders Lane,Melbourne (CBD),4,-37.8166033,144.9655966
+20191029_restaurant_row_329,Feddish,2011,2 Swanston Street,Melbourne (CBD),120,-37.81784465,144.9699175
+20191029_restaurant_row_330,Moulin Rouge Cafe,2012,386-394 Spencer Street,West Melbourne (Residential),6,-37.81132597,144.9509457
+20191029_restaurant_row_331,Cafe Trutrack,2008,56-62 Leveson Street,North Melbourne,16,-37.80284239,144.9514854
+20191029_restaurant_row_332,Isabella,2010,18-22 Flemington Road,Parkville,36,-37.79885182,144.9550404
+20191029_restaurant_row_333,Eat Pizza Flinders Street,2017,545-557 Flinders Street,Melbourne (CBD),6,-37.82099397,144.9565185
+20191029_restaurant_row_334,Frescatis Fine Food Cafe,2006,469-477 La Trobe Street,Melbourne (CBD),90,-37.81251859,144.9552995
+20191029_restaurant_row_336,Epresso Cafe,2005,221-231 Queen Street,Melbourne (CBD),55,-37.81355361,144.9597543
+20191029_restaurant_row_337,Flower Temple,2011,221 Little Lonsdale Street,Melbourne (CBD),15,-37.810658,144.9657034
+20191029_restaurant_row_338,Orino Pty Ltd,2013,476-602 Footscray Road,West Melbourne (Industrial),150,-37.80663448,144.9231563
+20191029_restaurant_row_339,Robot Cafe,2004,302-308 Flinders Lane,Melbourne (CBD),12,-37.81719967,144.9638971
+20191029_restaurant_row_341,Klik Cafe,2010,296-310 La Trobe Street,Melbourne (CBD),15,-37.81010387,144.9604349
+20191029_restaurant_row_343,S M XL,2013,15-33 William Street,Melbourne (CBD),24,-37.8192157,144.9591876
+20191029_restaurant_row_344,White Rabbit Record Bar,2012,176 Bellair Street,Kensington,10,-37.7936563,144.9299348
+20191029_restaurant_row_345,Stassi Cafe,2011,346-376 Queen Street,Melbourne (CBD),52,-37.81024912,144.9592377
+20191029_restaurant_row_346,Degraves Espresso,2008,267-275 Flinders Lane,Melbourne (CBD),35,-37.81710105,144.9654844
+20191029_restaurant_row_347,Dot Com Internet Cafe,2005,349 Elizabeth Street,Melbourne (CBD),8,-37.81067436,144.9612081
+20191029_restaurant_row_348,Noodle Box,2013,111-129 Bourke Street,Melbourne (CBD),24,-37.81281453,144.9701092
+20191029_restaurant_row_349,Speck Cafe,2012,221-231 Queen Street,Melbourne (CBD),20,-37.81355361,144.9597543
+20191029_restaurant_row_350,Underbridge Sports Bar & Cafe,2016,816 Lorimer Street,Port Melbourne,52,-37.82210926,144.9309535
+20191029_restaurant_row_351,Cafe On Collins,2017,303-317 Collins Street,Melbourne (CBD),17,-37.81662708,144.9638231
+20191029_restaurant_row_352,Grill'd (QV),2015,221 Little Lonsdale Street,Melbourne (CBD),70,-37.810658,144.9657034
+20191029_restaurant_row_353,L'Incontro,2010,134-142 Swanston Street,Melbourne (CBD),100,-37.81430553,144.9662921
+20191029_restaurant_row_354,Il Nostro Posto,2016,60 Hardware Lane,Melbourne (CBD),21,-37.81328955,144.961215
+20191029_restaurant_row_356,CJ Lunchbar,2011,391-393 Little Lonsdale Street,Melbourne (CBD),22,-37.81187439,144.9603411
+20191029_restaurant_row_357,Oyster Little Bourke,2010,27-35 Little Bourke Street,Melbourne (CBD),93,-37.8109435,144.97183
+20191029_restaurant_row_358,Non Solo Pasta,2014,790-814 Collins Street,Docklands,72,-37.821044,144.9458305
+20191029_restaurant_row_360,Red Cafe,2007,367-377 Royal Parade,Parkville,48,-37.7849288,144.9585626
+20191029_restaurant_row_362,Olive Cafe,2005,61-71 Agnes Street,East Melbourne,40,-37.81680765,144.9799837
+20191029_restaurant_row_364,Passion Flower,2012,168-174 Bourke Street,Melbourne (CBD),50,-37.81251216,144.968248
+20191029_restaurant_row_365,Citi Espresso,2009,377-391 Swanston Street,Melbourne (CBD),15,-37.80945732,144.9634198
+20191029_restaurant_row_367,Hairy Little Sista,2013,218-242 Little Collins Street,Melbourne (CBD),80,-37.81413595,144.9667836
+20191029_restaurant_row_368,Chiara,2017,705-715 Collins Street,Docklands,20,-37.82096812,144.9511863
+20191029_restaurant_row_369,Mekong Vietnam,2016,239-241 Swanston Street,Melbourne (CBD),50,-37.81239263,144.9647784
+20191029_restaurant_row_370,Mitre Tavern,2008,5-9 Bank Place,Melbourne (CBD),100,-37.81680457,144.9603112
+20191029_restaurant_row_371,Mr Tulk Cafe,2006,304-328 Swanston Street,Melbourne (CBD),47,-37.80976881,144.965306
+20191029_restaurant_row_372,Mum Mums Bistro,2014,32-54 Lonsdale Street,Melbourne (CBD),54,-37.8091842,144.9707325
+20191029_restaurant_row_373,Il Bacaro Cucina E Bar,2014,166-186 Little Collins Street,Melbourne (CBD),45,-37.81376794,144.9678599
+20191029_restaurant_row_374,Tempting Pizza & Pasta,2006,221 Little Lonsdale Street,Melbourne (CBD),6,-37.810658,144.9657034
+20191029_restaurant_row_375,Jung Gun Restaurant,2017,535 Little Lonsdale Street,Melbourne (CBD),42,-37.8134766,144.9560169
+20191029_restaurant_row_376,Cafe Doppio,2002,258-274 Collins Street,Melbourne (CBD),74,-37.81536587,144.9648999
+20191029_restaurant_row_377,Engel's Sandwich Bar & Delicatessen,2010,18-22 Collins Street,Melbourne (CBD),10,-37.81330535,144.9728919
+20191029_restaurant_row_378,The Bond Store Cafe,2011,1 Riverside Quay,Southbank,12,-37.82193589,144.9638744
+20191029_restaurant_row_379,Father John Cafe,2017,199-207 Spring Street,Melbourne (CBD),18,-37.81012699,144.9720594
+20191029_restaurant_row_380,World Restaurant & Bar,2014,4 Riverside Quay,Southbank,200,-37.82092509,144.9633758
+20191029_restaurant_row_381,Baraki Upo Mezethes,2012,166-170 Lonsdale Street,Melbourne (CBD),60,-37.8105674,144.9673697
+20191029_restaurant_row_382,Bouverie Deli,2017,22-40 Lincoln Square North,Carlton,36,-37.8013409,144.9627288
+20191029_restaurant_row_383,Romany Cafe,2003,127-129 Lygon Street,Carlton,40,-37.80403007,144.9660441
+20191029_restaurant_row_384,Two Fat Indians,2015,162-168 Wellington Parade,East Melbourne,50,-37.81593696,144.9845144
+20191029_restaurant_row_385,Crema Espresso Bar,2011,57-67 Little Collins Street,Melbourne (CBD),40,-37.81309819,144.9716953
+20191029_restaurant_row_386,Royal Park Hotel,2002,399-405 Queensberry Street,North Melbourne,80,-37.80378609,144.9543149
+20191029_restaurant_row_388,De Alleyway Espresso,2015,318-322 Little Collins Street,Melbourne (CBD),26,-37.81488174,144.9640121
+20191029_restaurant_row_389,Smile Thai Restaurant,2017,357 Victoria Street,West Melbourne (Residential),4,-37.80538734,144.949623
+20191029_restaurant_row_391,We Cafe,2013,19-37 A'Beckett Street,Melbourne (CBD),24,-37.80894099,144.9626101
+20191029_restaurant_row_392,Alpino Restaurant,2003,262 Lygon Street,Carlton,24,-37.80103476,144.9671843
+20191029_restaurant_row_393,Princess Theatre,2015,163-181 Spring Street,Melbourne (CBD),55,-37.81072571,144.9723266
+20191029_restaurant_row_394,Power Cafe,2006,624-634 Bourke Street,Melbourne (CBD),10,-37.81601898,144.9548146
+20191029_restaurant_row_395,Toby's Espresso Bar,2011,136-144 Exhibition Street,Melbourne (CBD),10,-37.81240259,144.9711075
+20191029_restaurant_row_396,Stork Hotel,2007,502-504 Elizabeth Street,Melbourne (CBD),100,-37.80719768,144.9603498
+20191029_restaurant_row_397,Urban Burger,2010,744-770 Bourke Street,Docklands,20,-37.81817241,144.947217
+20191029_restaurant_row_398,Picasso Artee Cafe,2014,56-62 Lygon Street,Carlton,7,-37.80566982,144.9664413
+20191029_restaurant_row_399,Starbucks,2009,163-261 Spencer Street,Docklands,53,-37.81501701,144.951187
+20191029_restaurant_row_400,The Albany South Yarra,2010,1-23 Millswyn Street,South Yarra,40,-37.83699215,144.9797639
+20191029_restaurant_row_401,Caffe Court,2009,550 Lonsdale Street,Melbourne (CBD),20,-37.8134766,144.9560169
+20191029_restaurant_row_402,Franklin Cafe,2002,459-469 Swanston Street,Melbourne (CBD),40,-37.80779355,144.9626708
+20191029_restaurant_row_403,Whitte Tomato,2015,160-162 Bourke Street,Melbourne (CBD),90,-37.81244856,144.9684702
+20191029_restaurant_row_404,Ocean View Cafe & Bar,2009,263-329 Lorimer Street,Port Melbourne,16,-37.82483593,144.9052161
+20191029_restaurant_row_407,Coco Latte Cafe,2008,1-9 Exhibition Street,Melbourne (CBD),16,-37.81584246,144.9720412
+20191029_restaurant_row_408,Nick's Souvlaki Bar,2007,135-137 Lygon Street,Carlton,9,-37.80391066,144.966075
+20191029_restaurant_row_409,The Groove Train,2016,3-5 Star Circus,Docklands,60,-37.81315031,144.9378299
+20191029_restaurant_row_411,Dinkum Pies,2006,317-321 Little Collins Street,Melbourne (CBD),8,-37.81528948,144.9642254
+20191029_restaurant_row_412,Gordons Cafe-Bar,2004,304-306 Little Collins Street,Melbourne (CBD),12,-37.81473293,144.9643486
+20191029_restaurant_row_414,Rare Master Steakhouse,2011,57-67 Little Collins Street,Melbourne (CBD),110,-37.81309819,144.9716953
+20191029_restaurant_row_415,Do Kea Bi Korean BBQ Restaurant,2012,84-88 William Street,Melbourne (CBD),80,-37.81713691,144.9592899
+20191029_restaurant_row_416,Kensington Pizza,2011,1 Gower Street,Kensington,42,-37.79467114,144.9301099
+20191029_restaurant_row_417,Barista 101,2014,89-105 Collins Street,Melbourne (CBD),38,-37.81492031,144.9707498
+20191029_restaurant_row_418,Toast Caffe,2012,13-15 Errol Street,North Melbourne,34,-37.80463699,144.9490423
+20191029_restaurant_row_419,Grocery Bar East Melbourne,2013,162 Albert Street,East Melbourne,34,-37.81004657,144.9856254
+20191029_restaurant_row_420,VinTam's Bakery,2013,41-55 Victoria Harbour Promenade,Docklands,40,-37.81938143,144.9429888
+20191029_restaurant_row_421,Think Asia,2010,45 Collins Street,Melbourne (CBD),15,-37.81430616,144.9726281
+20191029_restaurant_row_422,Delifrance - Bourke Street,2011,235-251 Bourke Street,Melbourne (CBD),20,-37.81376503,144.9665978
+20191029_restaurant_row_424,Maison Ama Lurra,2013,123-129 Howard Street,North Melbourne,55,-37.80409478,144.9536961
+20191029_restaurant_row_426,Duke of Kent Hotel,2005,293-299 La Trobe Street,Melbourne (CBD),120,-37.81081439,144.9605086
+20191029_restaurant_row_427,La Stradda Cafe,2009,324-328 William Street,Melbourne (CBD),100,-37.81146268,144.9566886
+20191029_restaurant_row_428,Coffee n' all Customs House,2016,1010 La Trobe Street,Docklands,36,-37.81453858,144.9453402
+20191029_restaurant_row_429,Chi Cafe,2017,84-90 Albert Street,East Melbourne,8,-37.81042804,144.9881385
+20191029_restaurant_row_430,Cafe Royale,2008,53 Royal Parade,Parkville,9,-37.79539648,144.9575513
+20191029_restaurant_row_431,Scopri Italian Food & Wine,2013,191 Nicholson Street,Carlton,60,-37.79568657,144.9749221
+20191029_restaurant_row_432,Garden Plaza Cafe,2002,106-120 Collins Street,Melbourne (CBD),52,-37.81398457,144.9693797
+20191029_restaurant_row_435,Comme,2009,7-19 Alfred Place,Melbourne (CBD),100,-37.81401267,144.9699104
+20191029_restaurant_row_436,Percys Bar & Bistro,2006,414-422 Lygon Street,Carlton,60,-37.79694555,144.9678126
+20191029_restaurant_row_437,Yori Yori,2010,258-274 Collins Street,Melbourne (CBD),16,-37.81536587,144.9648999
+20191029_restaurant_row_438,King Jons,2008,185 King Street,Melbourne (CBD),6,-37.81584127,144.9551492
+20191029_restaurant_row_439,Mayas Kitchen,2005,261 William Street,Melbourne (CBD),16,-37.81299552,144.9566159
+20191029_restaurant_row_440,Cafe Vic,2012,100 St Kilda Road,Southbank,300,-37.82094188,144.9682264
+20191029_restaurant_row_441,Zetost,2007,1-9 Powlett Street,East Melbourne,15,-37.81608793,144.9848341
+20191029_restaurant_row_443,Jerry's Burgers 'n' Fries,2017,482 Macaulay Road,Kensington,24,-37.79424521,144.9299704
+20191029_restaurant_row_445,In A Rush,2013,200-222 Queen Street,Melbourne (CBD),28,-37.81352285,144.9604697
+20191029_restaurant_row_446,Local Birds,2014,304-306 Little Collins Street,Melbourne (CBD),4,-37.81473293,144.9643486
+20191029_restaurant_row_448,Bottega Restaurant,2007,72-74 Bourke Street,Melbourne (CBD),130,-37.81168307,144.9710074
+20191029_restaurant_row_449,Spudbar @ Chevron,2010,519-539 St Kilda Road,Melbourne (Remainder),16,-37.8455379,144.9798191
+20191029_restaurant_row_450,Top End Cafe,2016,774-782 Elizabeth Street,Carlton,4,-37.80033364,144.9580246
+20191029_restaurant_row_451,Rrose Cellar and Bar,2011,7 Errol Street,North Melbourne,30,-37.80479755,144.9490127
+20191029_restaurant_row_452,Little Pasta House,2013,143-145 Lygon Street,Carlton,42,-37.80378355,144.9660984
+20191029_restaurant_row_454,Japanese Cafe Restaurant J,2012,165-167 Exhibition Street,Melbourne (CBD),33,-37.81170899,144.9700956
+20191029_restaurant_row_455,Da Guido,2016,128-130 Lygon Street,Carlton,14,-37.80403393,144.9666832
+20191029_restaurant_row_456,Western Coffee Lounge,2003,83-113 Batman Street,West Melbourne (Residential),28,-37.81158684,144.9499517
+20191029_restaurant_row_457,Fatto Bar & Cantina,2017,100 St Kilda Road,Southbank,80,-37.82094188,144.9682264
+20191029_restaurant_row_458,Kaprica,2017,19-21 Lincoln Square South,Carlton,15,-37.80336259,144.9627813
+20191029_restaurant_row_459,Cafe De Tuscany,2015,429 Little Collins Street,Melbourne (CBD),70,-37.8162783,144.960452
+20191029_restaurant_row_462,Centro Cafe Bar,2005,90-106 Victoria Parade,East Melbourne,50,-37.80862592,144.9748871
+20191029_restaurant_row_463,Botanical Hotel,2015,161-173 Domain Road,South Yarra,150,-37.83431735,144.9816996
+20191029_restaurant_row_464,Original Lolly Store,2007,239 Lygon Street,Carlton,4,-37.79982758,144.96678
+20191029_restaurant_row_466,Riverland Bar,2008,1-19 Princes Walk,Melbourne (CBD),35,-37.81865919,144.9689349
+20191029_restaurant_row_469,City BBQ Restaurant,2004,178-190 Little Bourke Street,Melbourne (CBD),60,-37.81186912,144.966942
+20191029_restaurant_row_470,Brunetti City Square,2013,199-209 Collins Street,Melbourne (CBD),178,-37.81584777,144.9674304
+20191029_restaurant_row_471,1932 Cafe & Restaurant,2017,220-226 Collins Street,Melbourne (CBD),32,-37.81528474,144.9661258
+20191029_restaurant_row_472,Hirize Bakery Cafe,2013,182-200 Spencer Street,Melbourne (CBD),22,-37.81625435,144.9532987
+20191029_restaurant_row_473,Dancing Goat Cafe,2013,276-282 King Street,Melbourne (CBD),24,-37.81349786,144.9548222
+20191029_restaurant_row_474,Bellini,2008,376-390 Collins Street,Melbourne (CBD),15,-37.81629382,144.9617186
+20191029_restaurant_row_475,Darac Grill & Bar,2013,51-53 A'Beckett Street,Melbourne (CBD),5,-37.8090975,144.9620743
+20191029_restaurant_row_477,Supanova Cafe Pty Ltd,2003,306-320 Little Lonsdale Street,Melbourne (CBD),18,-37.81158232,144.9602803
+20191029_restaurant_row_478,Conservatory,2012,8 Whiteman Street,Southbank,200,-37.82312164,144.9586604
+20191029_restaurant_row_479,Oshin Sushi Bar,2017,367-377 Royal Parade,Parkville,20,-37.7849288,144.9585626
+20191029_restaurant_row_480,Gloria Jeans Coffees Watergate,2012,2-24 Waterview Walk,Docklands,20,-37.81925128,144.9479753
+20191029_restaurant_row_481,Hudsons Elizabeth Street,2017,84-86 Elizabeth Street,Melbourne (CBD),8,-37.81591326,144.9641934
+20191029_restaurant_row_482,The Potter Espresso Bar,2012,156-292 Grattan Street,Parkville,28,-37.79739836,144.9612468
+20191029_restaurant_row_483,Easy Cafe,2010,220 Bourke Street,Melbourne (CBD),70,-37.81291317,144.9667375
+20191029_restaurant_row_484,Feast @ 520,2017,516-520 Collins Street,Melbourne (CBD),20,-37.81780327,144.9572629
+20191029_restaurant_row_485,Le Moulin,2003,495-497 Spencer Street,West Melbourne (Residential),35,-37.80897146,144.9487895
+20191029_restaurant_row_487,KL Bunga Raya,2017,34 Errol Street,North Melbourne,40,-37.80435713,144.9497225
+20191029_restaurant_row_488,Riverside Teppanyaki,2016,18-38 Siddeley Street,Docklands,42,-37.82253633,144.9536422
+20191029_restaurant_row_490,Lustre Lounge,2010,252-254 Flinders Lane,Melbourne (CBD),41,-37.8166033,144.9655966
+20191029_restaurant_row_491,Cafe Domain,2011,161-173 Domain Road,South Yarra,42,-37.83431735,144.9816996
+20191029_restaurant_row_492,Gourmet Southbank,2013,63-65 City Road,Southbank,6,-37.82222503,144.9658443
+20191029_restaurant_row_493,Saint & Rogue,2013,582-584 Little Collins Street,Melbourne (CBD),100,-37.81740928,144.9553525
+20191029_restaurant_row_494,Universal Pizza,2010,139-141 Lygon Street,Carlton,100,-37.80384773,144.9660865
+20191029_restaurant_row_495,Strozzi Restaurant,2004,327-343 Collins Street,Melbourne (CBD),82,-37.81706705,144.9632538
+20191029_restaurant_row_496,Bluebag,2006,405-407 Collins Street,Melbourne (CBD),12,-37.81745676,144.9611131
+20191029_restaurant_row_497,1000 Pound Bend,2014,361-365 Little Lonsdale Street,Melbourne (CBD),100,-37.81166967,144.9612845
+20191029_restaurant_row_498,Sakura Kaiten Sushi,2017,57-67 Little Collins Street,Melbourne (CBD),34,-37.81309819,144.9716953
+20191029_restaurant_row_499,Impresso Coffee BAr,2013,341 King Street,West Melbourne (Residential),11,-37.81229604,144.9535989
+20191029_restaurant_row_500,Galleria Coffee Lounge,2003,359-385 Bourke Street,Melbourne (CBD),110,-37.81491502,144.9629442
+20191029_restaurant_row_501,Melbourne Halal Kebabs,2014,45-63 Swanston Street,Melbourne (CBD),4,-37.8163275,144.9666228
+20191029_restaurant_row_503,Nirankar Indian Restaurant,2004,7-11 Queen Street,Melbourne (CBD),120,-37.81861863,144.9619461
+20191029_restaurant_row_504,Happy Palace Restaurant,2002,87-91 Bourke Street,Melbourne (CBD),160,-37.812234,144.9709029
+20191029_restaurant_row_505,Trotters Restaurant,2004,398-400 Lygon Street,Carlton,12,-37.79763393,144.9677565
+20191029_restaurant_row_506,The Hot Poppy,2015,9 Errol Street,North Melbourne,16,-37.80473152,144.9489706
+20191029_restaurant_row_507,Hudson & Co,2014,585-587 Little Collins Street,Melbourne (CBD),16,-37.81787118,144.955444
+20191029_restaurant_row_508,Caffe Trento,2003,344-350 Collins Street,Melbourne (CBD),140,-37.81601764,144.962689
+20191029_restaurant_row_509,Tomodachi Melbourne Central,2008,183-265 La Trobe Street,Melbourne (CBD),120,-37.81073331,144.9630189
+20191029_restaurant_row_511,Mask of China Restaurant,2011,115-117 Little Bourke Street,Melbourne (CBD),90,-37.81158808,144.9690101
+20191029_restaurant_row_513,Squisito Bar,2015,221 Little Lonsdale Street,Melbourne (CBD),46,-37.810658,144.9657034
+20191029_restaurant_row_514,Cafe 501,2006,499-511 Swanston Street,Melbourne (CBD),40,-37.80689662,144.9618657
+20191029_restaurant_row_515,Koko Black Chocolate,2017,52-54 Collins Street,Melbourne (CBD),65,-37.81355886,144.9718392
+20191029_restaurant_row_516,Oriental Spoon,2012,368-378 Elizabeth Street,Melbourne (CBD),160,-37.80994879,144.961747
+20191029_restaurant_row_517,Section 8 Container Bar,2006,27-29 Tattersalls Lane,Melbourne (CBD),40,-37.81176167,144.9653899
+20191029_restaurant_row_518,Gopal's Vegetarian Restaurant,2005,139-141 Swanston Street,Melbourne (CBD),80,-37.8144111,144.9657351
+20191029_restaurant_row_519,Chowciao,2005,156-292 Grattan Street,Parkville,30,-37.79739836,144.9612468
+20191029_restaurant_row_520,Fedoullas Cuccina,2009,45 Collins Street,Melbourne (CBD),160,-37.81430616,144.9726281
+20191029_restaurant_row_521,@ Rice On Lonsdale,2008,528-538 Lonsdale Street,Melbourne (CBD),15,-37.81365662,144.9564217
+20191029_restaurant_row_522,Chafs Cafe,2010,669-675 Bourke Street,Melbourne (CBD),28,-37.81721781,144.9541004
+20191029_restaurant_row_523,Jasalmer Palace Indian Restaurant,2009,98 Bourke Street,Melbourne (CBD),4,-37.81194604,144.9701703
+20191029_restaurant_row_524,Kaneda Japanese Restaurant,2007,194-200 Bourke Street,Melbourne (CBD),30,-37.8124312,144.9672768
+20191029_restaurant_row_526,Lanes Edge Cafe,2014,39-43 Bourke Street,Melbourne (CBD),52,-37.81193572,144.9720472
+20191029_restaurant_row_527,Shou Sumiyaki,2013,196-208 Russell Street,Melbourne (CBD),90,-37.81158809,144.9678632
+20191029_restaurant_row_528,The Medallion Club,2007,122-148 Harbour Esplanade,Docklands,950,-37.81656591,144.9475776
+20191029_restaurant_row_530,The Corkman Irish Pub,2017,154-160 Leicester Street,Carlton,10,-37.80243195,144.960916
+20191029_restaurant_row_531,Chine On Paramount,2005,100-116 Bourke Street,Melbourne (CBD),100,-37.81170307,144.9697778
+20191029_restaurant_row_532,Kim Sing Chinese Restaurant,2013,228-236 Flinders Street,Melbourne (CBD),79,-37.81724878,144.9665517
+20191029_restaurant_row_534,Newquay International Buffet,2015,2-16 Newquay Promenade,Docklands,68,-37.81389091,144.9436836
+20191029_restaurant_row_536,Saki Sushi Bar,2014,93-101 Spring Street,Melbourne (CBD),14,-37.81260039,144.9731836
+20191029_restaurant_row_537,@T Ease,2016,195 Lonsdale Street,Melbourne (CBD),10,-37.8112684,144.9666305
+20191029_restaurant_row_538,Tengu Sushi Cafe,2002,121 William Street,Melbourne (CBD),20,-37.81636534,144.9578132
+20191029_restaurant_row_539,Caffe Cino,2013,2 Convention Centre Place,Southbank,9,-37.82539976,144.9523782
+20191029_restaurant_row_540,Entrecote City,2017,90-98 Collins Street,Melbourne (CBD),65,-37.8139675,144.9702813
+20191029_restaurant_row_541,Syracuse,2004,435-443 Little Collins Street,Melbourne (CBD),70,-37.81638558,144.9600859
+20191029_restaurant_row_542,In a Rush,2015,121 Exhibition Street,Melbourne (CBD),24,-37.81281453,144.9701092
+20191029_restaurant_row_543,Harry's At Stamford,2017,121-127 Little Collins Street,Melbourne (CBD),8,-37.8136886,144.9697676
+20191029_restaurant_row_544,Shark Fin House,2013,134-144 Bourke Street,Melbourne (CBD),380,-37.81199769,144.9688573
+20191029_restaurant_row_546,Bluestone Belgian Beer Cafe,2008,557-563 St Kilda Road,Melbourne (Remainder),200,-37.84752524,144.9814116
+20191029_restaurant_row_547,Pure South,2006,3 Southgate Avenue,Southbank,80,-37.82066923,144.9662623
+20191029_restaurant_row_548,Cafenatics On Church,2014,500-514 Collins Street,Melbourne (CBD),47,-37.81753383,144.9574732
+20191029_restaurant_row_549,No 5,2005,258-260 Flinders Lane,Melbourne (CBD),6,-37.81664468,144.9654744
+20191029_restaurant_row_550,Castro's Kiosk,2010,156-292 Grattan Street,Parkville,30,-37.79739836,144.9612468
+20191029_restaurant_row_551,Be-Hive Cafe Bar,2013,459 Collins Street,Melbourne (CBD),150,-37.81817724,144.9589237
+20191029_restaurant_row_553,Workshop Brothers,2016,184-192 Queen Street,Melbourne (CBD),9,-37.81402844,144.9606804
+20191029_restaurant_row_554,Mamma's Boy,2010,93-101 Spring Street,Melbourne (CBD),12,-37.81260039,144.9731836
+20191029_restaurant_row_555,Iseya Icecream Bar And Cafe,2017,376-388 Flinders Street,Melbourne (CBD),20,-37.81884626,144.9615299
+20191029_restaurant_row_556,Hoboken Cafe,2012,3-5 Hosier Lane,Melbourne (CBD),30,-37.81650918,144.9690184
+20191029_restaurant_row_557,Mr Price's Food Store,2017,502 Queensberry Street,North Melbourne,30,-37.8028658,144.9506624
+20191029_restaurant_row_558,La Belle Miette,2014,392-406 Bourke Street,Melbourne (CBD),4,-37.81416355,144.9617562
+20191029_restaurant_row_559,Xinnia Cafe Bar,2012,100 Dorcas Street,Southbank,60,-37.83070462,144.9662961
+20191029_restaurant_row_560,Cafe 555,2003,513-577 La Trobe Street,Melbourne (CBD),45,-37.81327283,144.9528962
+20191029_restaurant_row_561,Waterfront Venues,2017,425-427 Docklands Drive,Docklands,460,-37.81517782,144.9390269
+20191029_restaurant_row_563,The Italian,2012,89-105 Collins Street,Melbourne (CBD),160,-37.81492031,144.9707498
+20191029_restaurant_row_564,Sippers,2008,164 Rathdowne Street,Carlton,70,-37.79547684,144.9711319
+20191029_restaurant_row_566,Healthy Nibbles Cafe,2017,53-57 Lonsdale Street,Melbourne (CBD),16,-37.81005686,144.9707149
+20191029_restaurant_row_567,Kyoto Sushi & Noodle Bar,2006,184-192 Queen Street,Melbourne (CBD),4,-37.81402844,144.9606804
+20191029_restaurant_row_569,Michelangelo,2010,215 Queen Street,Melbourne (CBD),12,-37.81379647,144.9598741
+20191029_restaurant_row_570,Rush Cafe,2008,408-412 Bourke Street,Melbourne (CBD),28,-37.81443611,144.961492
+20191029_restaurant_row_571,Papa Goose,2012,91-93 Flinders Lane,Melbourne (CBD),80,-37.81543506,144.9712228
+20191029_restaurant_row_572,Theobroma Chocolate Lounge,2010,163-261 Spencer Street,Docklands,40,-37.81501701,144.951187
+20191029_restaurant_row_574,Invita,2014,70-74 Therry Street,Melbourne (CBD),36,-37.80745984,144.9572395
+20191029_restaurant_row_575,Fandango,2016,97 Errol Street,North Melbourne,4,-37.80260762,144.9494062
+20191029_restaurant_row_576,Melbourne Hwaro Korean BBQ Restaurant,2012,562-566 Little Bourke Street,Melbourne (CBD),72,-37.81501703,144.9556694
+20191029_restaurant_row_577,Hotel Ibis Little Bourke Street,2015,594-600 Little Bourke Street,Melbourne (CBD),60,-37.815375,144.9545715
+20191029_restaurant_row_578,King of Kings Chinese Restaurant,2003,209-211 Russell Street,Melbourne (CBD),42,-37.81164458,144.9672734
+20191029_restaurant_row_581,Ling Nam Chinese Restaurant,2009,204 Little Bourke Street,Melbourne (CBD),90,-37.81199247,144.9665408
+20191029_restaurant_row_584,New Zealand Natural Ice Cream,2012,241 Lygon Street,Carlton,16,-37.79978368,144.9667834
+20191029_restaurant_row_585,Saluministi,2016,6-12 Atkin Street,North Melbourne,38,-37.80374164,144.9486384
+20191029_restaurant_row_586,Assembly Store,2014,60 Pelham Street,Carlton,4,-37.80262561,144.9673351
+20191029_restaurant_row_588,Spiga,2007,183-265 La Trobe Street,Melbourne (CBD),30,-37.81073331,144.9630189
+20191029_restaurant_row_589,Melbourne Vietnam Noodle House,2006,251-253 Swanston Street,Melbourne (CBD),100,-37.81221437,144.9646962
+20191029_restaurant_row_590,Mighty Bite Campus Cafe,2004,156-292 Grattan Street,Parkville,5,-37.79739836,144.9612468
+20191029_restaurant_row_591,Market Espresso & Trolley Hire,2016,83-129 Victoria Street,Melbourne (CBD),28,-37.80745984,144.9572395
+20191029_restaurant_row_593,Earl Canteen,2017,559-587 Collins Street,Melbourne (CBD),10,-37.81902044,144.9557275
+20191029_restaurant_row_594,Seoul Tookbegi,2013,260-262 Russell Street,Melbourne (CBD),46,-37.8102551,144.9672247
+20191029_restaurant_row_595,Henry & The Fox,2016,500-514 Collins Street,Melbourne (CBD),160,-37.81753383,144.9574732
+20191029_restaurant_row_596,Blue Truffle Cafe,2006,160-162 Rathdowne Street,Carlton,40,-37.79553609,144.9711231
+20191029_restaurant_row_597,Zoom Organic,2016,32-54 Lonsdale Street,Melbourne (CBD),14,-37.8091842,144.9707325
+20191029_restaurant_row_601,Cafe Vagabond,2005,81-83 Flemington Road,North Melbourne,80,-37.79881149,144.9531712
+20191029_restaurant_row_602,Starbucks Waterfront City,2008,439-441 Docklands Drive,Docklands,28,-37.81517782,144.9390269
+20191029_restaurant_row_603,Bacash,2009,175-177 Domain Road,South Yarra,100,-37.83430009,144.9819451
+20191029_restaurant_row_604,Don't Tell Charles Coffee & Desserts,2016,70 Speakmen Street,Kensington,14,-37.79387621,144.9163635
+20191029_restaurant_row_606,Healthy Appetite,2009,430-442 Collins Street,Melbourne (CBD),30,-37.81703239,144.9597623
+20191029_restaurant_row_607,Warung Agus,2008,297-307 Victoria Street,West Melbourne (Residential),60,-37.80562951,144.9513664
+20191029_restaurant_row_610,Bare Pear,2007,148-156 Queen Street,Melbourne (CBD),19,-37.81508879,144.9611591
+20191029_restaurant_row_611,Yan's Cafe,2012,505-507 Spencer Street,West Melbourne (Residential),10,-37.80883465,144.9486329
+20191029_restaurant_row_612,Jasmine,2005,8 Whiteman Street,Southbank,60,-37.82312164,144.9586604
+20191029_restaurant_row_613,Blue Print Eatery & Bar,2015,222-224 Pelham Street,Carlton,60,-37.80169537,144.9583287
+20191029_restaurant_row_615,Don-Bay,2009,430-442 Collins Street,Melbourne (CBD),22,-37.81703239,144.9597623
+20191029_restaurant_row_616,Hawke St Foodstore,2008,72 Hawke Street,West Melbourne (Residential),4,-37.8080043,144.945578
+20191029_restaurant_row_618,Zest,2007,42-44 King Street,Melbourne (CBD),126,-37.81918367,144.9573222
+20191029_restaurant_row_619,Taco Bill Collins Street,2016,412-414 Collins Street,Melbourne (CBD),80,-37.81698962,144.960489
+20191029_restaurant_row_620,Cafe Fantasia,2002,409-413 St Kilda Road,Melbourne (Remainder),90,-37.8373358,144.9767624
+20191029_restaurant_row_621,Cafe Vue,2012,430-436 Little Collins Street,Melbourne (CBD),42,-37.81596878,144.9601101
+20191029_restaurant_row_622,Gyoza Gyoza & Momo Shabu Shabu,2016,115-117 Little Bourke Street,Melbourne (CBD),150,-37.81158808,144.9690101
+20191029_restaurant_row_624,Bhoj On Docklands,2006,16-32 Rakaia Way,Docklands,150,-37.81460533,144.9412614
+20191029_restaurant_row_625,Noodle Kingdom,2010,175 Russell Street,Melbourne (CBD),60,-37.8123356,144.9675678
+20191029_restaurant_row_626,Randy Dragon,2017,313-315 Flinders Lane,Melbourne (CBD),50,-37.81763918,144.9638507
+20191029_restaurant_row_627,Stellar Bar,2007,98 Bourke Street,Melbourne (CBD),40,-37.81194604,144.9701703
+20191029_restaurant_row_628,Little Colin,2017,435-443 Little Collins Street,Melbourne (CBD),10,-37.81638558,144.9600859
+20191029_restaurant_row_629,Twenty & Six Espresso,2017,594 Queensberry Street,North Melbourne,26,-37.80257072,144.9475392
+20191029_restaurant_row_630,Ying Thai 2,2003,110 Lygon Street,Carlton,16,-37.80443778,144.9666993
+20191029_restaurant_row_631,The Turf Bar & Restaurant,2016,131-141 Queen Street,Melbourne (CBD),60,-37.81549904,144.9605409
+20191029_restaurant_row_635,Shinsei Sushi,2014,788-812 Bourke Street,Docklands,16,-37.81888389,144.9451224
+20191029_restaurant_row_637,Don Don Japanese Takeaway,2003,319-323 Swanston Street,Melbourne (CBD),16,-37.81076317,144.9640475
+20191029_restaurant_row_638,G & J Cafe Deli Take Away Food,2004,365-371 Queen Street,Melbourne (CBD),2,-37.80988001,144.9579933
+20191029_restaurant_row_639,Yen Sushi Noodle,2016,252-254 Flinders Lane,Melbourne (CBD),7,-37.8166033,144.9655966
+20191029_restaurant_row_640,Ishiya Stonegrill,2013,210-222 Russell Street,Melbourne (CBD),40,-37.81132789,144.9679947
+20191029_restaurant_row_641,Cafe Ecco,2015,6-8 Nicholson Street,East Melbourne,200,-37.80849653,144.973619
+20191029_restaurant_row_642,Dion,2014,203-207 Lonsdale Street,Melbourne (CBD),100,-37.81133175,144.9663534
+20191029_restaurant_row_644,Popol Nah,2014,171 Lygon Street,Carlton,28,-37.80165695,144.9664692
+20191029_restaurant_row_645,The Carron Tavern,2009,396-400 Spencer Street,West Melbourne (Residential),200,-37.81114228,144.9508616
+20191029_restaurant_row_646,Amigos Lygon Street,2012,171 Lygon Street,Carlton,95,-37.80165695,144.9664692
+20191029_restaurant_row_647,Shamiana,2007,244-250 Queen Street,Melbourne (CBD),80,-37.81269018,144.959964
+20191029_restaurant_row_648,Edelweiss Cafe & Wine Bar,2011,201-207 Elizabeth Street,Melbourne (CBD),16,-37.81366344,144.9626049
+20191029_restaurant_row_649,Panned Pizza,2015,189-191 Bourke Street,Melbourne (CBD),30,-37.81316936,144.9677637
+20191029_restaurant_row_650,In Season Thai Cuisine,2011,279 Victoria Street,West Melbourne (Residential),54,-37.80566937,144.9519704
+20191029_restaurant_row_651,Collingwood Football Club Limited,2012,10-20 Olympic Boulevard,Melbourne (Remainder),74,-37.82487806,144.9823854
+20191029_restaurant_row_652,Spinifex Cafe,2017,192-194 Bellair Street,Kensington,10,-37.79405204,144.9300585
+20191029_restaurant_row_653,Park Hyatt Melbourne,2013,33-61 Cathedral Place,East Melbourne,140,-37.81131183,144.9765098
+20191029_restaurant_row_654,Patterns Cafe,2012,248-258 Swanston Street,Melbourne (CBD),50,-37.81199559,144.9652504
+20191029_restaurant_row_655,Verve,2006,109-113 Russell Street,Melbourne (CBD),20,-37.81399547,144.9682827
+20191029_restaurant_row_656,Rowlands Catering,2002,2 Swanston Street,Melbourne (CBD),40,-37.81784465,144.9699175
+20191029_restaurant_row_657,Grilled 118,2017,118 Lygon Street,Carlton,30,-37.80443778,144.9666993
+20191029_restaurant_row_658,Ciampini Bar & Cucina,2002,535 Little Lonsdale Street,Melbourne (CBD),45,-37.8134766,144.9560169
+20191029_restaurant_row_659,Pat's Deli,2005,566-574 Queensberry Street,North Melbourne,35,-37.80271264,144.9484758
+20191029_restaurant_row_660,The Commuters Cafe & Bar,2011,589-605 Collins Street,Melbourne (CBD),60,-37.81936788,144.9552105
+20191029_restaurant_row_661,Ferguson Plarre Bakehouse,2012,27 Errol Street,North Melbourne,18,-37.80434881,144.9490709
+20191029_restaurant_row_662,Romeo Takeaway Cafe,2017,Peel Street,Melbourne (CBD),6,-37.80745984,144.9572395
+20191029_restaurant_row_663,Cervo,2009,8 Whiteman Street,Southbank,80,-37.82312164,144.9586604
+20191029_restaurant_row_664,Brown Bagels,2015,308-336 Collins Street,Melbourne (CBD),6,-37.81611256,144.9633433
+20191029_restaurant_row_665,Sakae,2011,276-282 King Street,Melbourne (CBD),4,-37.81349786,144.9548222
+20191029_restaurant_row_666,Taiwan Cafe,2017,273 Swanston Street,Melbourne (CBD),56,-37.81185964,144.9645317
+20191029_restaurant_row_668,Monkey Bar Noodles & Sushi,2012,8-10 King Street,Melbourne (CBD),30,-37.81992762,144.9576378
+20191029_restaurant_row_669,la Cantina,2004,4-10 Bank Place,Melbourne (CBD),85,-37.81669009,144.9606423
+20191029_restaurant_row_670,Professor Court Cafe,2013,156-292 Grattan Street,Parkville,4,-37.79739836,144.9612468
+20191029_restaurant_row_671,Romano's Coffee,2011,561-571 Bourke Street,Melbourne (CBD),63,-37.81647428,144.957018
+20191029_restaurant_row_672,Louis Gourmet Lunch,2003,84-88 William Street,Melbourne (CBD),54,-37.81713691,144.9592899
+20191029_restaurant_row_673,Izakaya Chuji Japanese Restaurant,2004,226-236 Russell Street,Melbourne (CBD),60,-37.81098272,144.9676444
+20191029_restaurant_row_674,Toast Kitchen Cafe,2016,13-15 Errol Street,North Melbourne,34,-37.80463699,144.9490423
+20191029_restaurant_row_675,Sambal Kampung,2016,235-251 Bourke Street,Melbourne (CBD),18,-37.81376503,144.9665978
+20191029_restaurant_row_677,A Treat of France,2016,269-283 City Road,Southbank,8,-37.82730522,144.9590507
+20191029_restaurant_row_678,Kinya Japanese Restaurant,2015,58-70 Lorimer Street,Docklands,32,-37.82488026,144.946356
+20191029_restaurant_row_679,Seven Seeds Specialty coffee,2010,106-114 Berkeley Street,Carlton,90,-37.8028778,144.9591271
+20191029_restaurant_row_680,Cafe Bakpak,2011,167-175 Franklin Street,Melbourne (CBD),40,-37.80895967,144.9591538
+20191029_restaurant_row_681,Cafe Shots Espresso Bar,2016,224-236 Queen Street,Melbourne (CBD),8,-37.81320274,144.960162
+20191029_restaurant_row_682,Seoul Restaurant,2008,369-371 Little Bourke Street,Melbourne (CBD),60,-37.81367176,144.9617817
+20191029_restaurant_row_683,Pasta Rustica Ristorante,2008,148-150 Lygon Street,Carlton,115,-37.80366897,144.966737
+20191029_restaurant_row_684,CR's on Collins,2004,62-66 King Street,Melbourne (CBD),100,-37.81874137,144.9571409
+20191029_restaurant_row_685,New Quay Bar & Brasserie,2006,2-16 Newquay Promenade,Docklands,120,-37.81389091,144.9436836
+20191029_restaurant_row_687,No 136 Coffee Melbourne,2012,136-140 Elizabeth Street,Melbourne (CBD),17,-37.81484304,144.963743
+20191029_restaurant_row_688,Prince Alfred Hotel,2010,191-197 Grattan Street,Carlton,40,-37.80045792,144.962209
+20191029_restaurant_row_689,Footlights Restaurant,2017,131-137 Lonsdale Street,Melbourne (CBD),80,-37.81098009,144.96853
+20191029_restaurant_row_690,Spud Bar,2016,394-400 Little Bourke Street,Melbourne (CBD),16,-37.81365679,144.9609004
+20191029_restaurant_row_692,Dream,2004,229 Queensberry Street,Carlton,30,-37.80459072,144.9611486
+20191029_restaurant_row_693,The Victoria Hotel,2010,209-221 Little Collins Street,Melbourne (CBD),120,-37.81447237,144.9670943
+20191029_restaurant_row_694,Clare Castle Hotel,2008,415-421 Rathdowne Street,Carlton,36,-37.79652005,144.9704262
+20191029_restaurant_row_695,Kartina Kartel,2010,500-514 Collins Street,Melbourne (CBD),100,-37.81753383,144.9574732
+20191029_restaurant_row_696,Eclipse Coffee,2016,487-503 Collins Street,Melbourne (CBD),14,-37.81853877,144.9581185
+20191029_restaurant_row_697,Coffee Mak,2005,224-252 La Trobe Street,Melbourne (CBD),6,-37.80965592,144.9623409
+20191029_restaurant_row_701,Vibe Hotel,2008,419-443 Royal Parade,Parkville,40,-37.78289944,144.958804
+20191029_restaurant_row_703,Karelay Patisserie,2017,190 Bellair Street,Kensington,22,-37.79395787,144.9300805
+20191029_restaurant_row_704,ACMI Cafe & Bar,2016,2 Swanston Street,Melbourne (CBD),66,-37.81784465,144.9699175
+20191029_restaurant_row_705,Cafe Tiffany,2005,562-566 Little Bourke Street,Melbourne (CBD),70,-37.81501703,144.9556694
+20191029_restaurant_row_706,A Little Bird Told Me,2013,224-252 La Trobe Street,Melbourne (CBD),20,-37.80965592,144.9623409
+20191029_restaurant_row_707,Queens Bees,2008,562-564 Queensberry Street,North Melbourne,20,-37.80271962,144.9487134
+20191029_restaurant_row_709,Cafe Kaz,2003,300-336 Grattan Street,Parkville,500,-37.79854141,144.9559628
+20191029_restaurant_row_710,The Deck Cafe On St Kilda Road,2010,477-479 St Kilda Road,Melbourne (Remainder),60,-37.8418809,144.978556
+20191029_restaurant_row_712,Arena View Restaurant And Cafe,2008,122-148 Harbour Esplanade,Docklands,2640,-37.81656591,144.9475776
+20191029_restaurant_row_714,Bababoi,2016,40-66 Siddeley Street,Docklands,28,-37.82290352,144.9525486
+20191029_restaurant_row_717,Green Pepper Indian Restaurant,2013,18 Bourke Street,Melbourne (CBD),25,-37.811289,144.9723627
+20191029_restaurant_row_718,Lily Blacks,2017,12-18 Meyers Place,Melbourne (CBD),100,-37.81221617,144.972451
+20191029_restaurant_row_719,City Of Melbourne Bowls Club Inc,2014,Dudley Street,West Melbourne (Residential),110,-37.81045581,144.9544344
+20191029_restaurant_row_720,Gloria Jean's Coffees,2010,612-624 Collins Street,Melbourne (CBD),6,-37.81867544,144.9543505
+20191029_restaurant_row_721,Maltitude Cafe,2005,305-307 Exhibition Street,Melbourne (CBD),50,-37.80879339,144.9687626
+20191029_restaurant_row_722,Mediterranean Deli,2017,76-84 Collins Street,Melbourne (CBD),4,-37.81358646,144.9707087
+20191029_restaurant_row_723,Melba 501,2014,499-511 Swanston Street,Melbourne (CBD),38,-37.80689662,144.9618657
+20191029_restaurant_row_725,Boba Pearl Bubble Tea Restaurant,2006,122 Lygon Street,Carlton,12,-37.80443778,144.9666993
+20191029_restaurant_row_726,The Mercant Cross Hotel / Fancy Hanks Bar-B-Que,2015,143-151 Therry Street,Melbourne (CBD),230,-37.80792152,144.9583711
+20191029_restaurant_row_727,Rustica Canteen,2017,33-35 Guildford Lane,Melbourne (CBD),4,-37.81146107,144.9598612
+20191029_restaurant_row_728,Edwin's Cafe,2016,60 Olympic Boulevard,Melbourne (Remainder),150,-37.82487806,144.9823854
+20191029_restaurant_row_729,Supernormal,2015,167-173 Collins Street,Melbourne (CBD),160,-37.81563788,144.9682892
+20191029_restaurant_row_730,Gogi Korean BBQ Buffet,2014,210-222 Russell Street,Melbourne (CBD),100,-37.81132789,144.9679947
+20191029_restaurant_row_731,Original Sushi,2016,482-484 Bourke Street,Melbourne (CBD),10,-37.8150902,144.9593794
+20191029_restaurant_row_732,NY Deli,2014,158-164 Queen Street,Melbourne (CBD),70,-37.81453148,144.9610146
+20191029_restaurant_row_733,Merchant Osteria Veneta,2011,487-503 Collins Street,Melbourne (CBD),140,-37.81853877,144.9581185
+20191029_restaurant_row_735,Slate Restaurant Bar,2010,515-527 Little Bourke Street,Melbourne (CBD),60,-37.81518319,144.9570682
+20191029_restaurant_row_738,Elektrik Cafe,2003,114-122 Franklin Street,Melbourne (CBD),40,-37.80819713,144.9589367
+20191029_restaurant_row_739,Melbourne Exhibition Centre,2017,2 Clarendon Street,Southbank,31,-37.82539976,144.9523782
+20191029_restaurant_row_740,Red Silks Restaurant & Bar,2017,194-200 Bourke Street,Melbourne (CBD),80,-37.8124312,144.9672768
+20191029_restaurant_row_741,Movida Aqui,2017,494-512 Bourke Street,Melbourne (CBD),50,-37.81494883,144.9587607
+20191029_restaurant_row_742,Via Victoria,2002,279 Victoria Street,West Melbourne (Residential),50,-37.80566937,144.9519704
+20191029_restaurant_row_743,Laurent Boulangerie Patisserie,2015,181 William Street,Melbourne (CBD),16,-37.81531863,144.9573923
+20191029_restaurant_row_745,Blue Sky,2004,7-9 Waratah Place,Melbourne (CBD),95,-37.81162502,144.9669911
+20191029_restaurant_row_746,Yoyogi,2008,183-265 La Trobe Street,Melbourne (CBD),10,-37.81073331,144.9630189
+20191029_restaurant_row_747,Luncheonette Cafe,2013,169-173 Rankins Road,Kensington,12,-37.79436218,144.9311131
+20191029_restaurant_row_748,Naked Espresso Bar,2013,386-392 Little Bourke Street,Melbourne (CBD),15,-37.81359799,144.9610735
+20191029_restaurant_row_749,A & E Takeaway,2002,427 Elizabeth Street,Melbourne (CBD),12,-37.80897533,144.9604244
+20191029_restaurant_row_750,The French Brasserie,2012,11-37 Exhibition Street,Melbourne (CBD),80,-37.81546152,144.9717262
+20191029_restaurant_row_751,Tabby House,2016,275 King Street,Melbourne (CBD),35,-37.81381086,144.9542621
+20191029_restaurant_row_753,Japan Inn Gourmet Sushi,2011,427-431 St Kilda Road,Melbourne (Remainder),16,-37.83854242,144.9771931
+20191029_restaurant_row_754,Hall St Deli,2013,49-89 Turner Street,Port Melbourne,59,-37.82304058,144.9253775
+20191029_restaurant_row_755,Percys Grainger Museum Cafe,2017,230 Grattan Street,Parkville,16,-37.79739836,144.9612468
+20191029_restaurant_row_756,Jimmy Watsons,2005,331-335 Lygon Street,Carlton,134,-37.7975082,144.9671779
+20191029_restaurant_row_758,Bourgie,2004,395-397 Little Lonsdale Street,Melbourne (CBD),50,-37.81190077,144.9602499
+20191029_restaurant_row_759,Ratee Thai,2017,228-236 Flinders Street,Melbourne (CBD),36,-37.81724878,144.9665517
+20191029_restaurant_row_764,Boost Juice,2015,467 Elizabeth Street,Melbourne (CBD),4,-37.80802361,144.9599882
+20191029_restaurant_row_765,Blossom Espresso,2014,1-9 Freshwater Place,Southbank,35,-37.82167834,144.962154
+20191029_restaurant_row_766,Treviso,2014,4-10 Bank Place,Melbourne (CBD),85,-37.81669009,144.9606423
+20191029_restaurant_row_767,Townhall Hotel North Melbourne,2017,33 Errol Street,North Melbourne,34,-37.80414139,144.9489068
+20191029_restaurant_row_768,Melbourne Savage Club,2014,12-16 Bank Place,Melbourne (CBD),90,-37.81654467,144.9605765
+20191029_restaurant_row_769,Spicy Temptation House,2011,178-190 Little Bourke Street,Melbourne (CBD),250,-37.81186912,144.966942
+20191029_restaurant_row_770,Mrs Parma's,2014,19-25 Little Bourke Street,Melbourne (CBD),60,-37.81074304,144.9719903
+20191029_restaurant_row_771,Bag a Baguette,2011,318-322 Little Collins Street,Melbourne (CBD),2,-37.81488174,144.9640121
+20191029_restaurant_row_772,Mack Daddy Soprano,2007,313-315 Flinders Lane,Melbourne (CBD),60,-37.81763918,144.9638507
+20191029_restaurant_row_773,Axil Coffee Roasters / Not to Scale,2016,41-43 Exhibition Street,Melbourne (CBD),25,-37.81501535,144.9715746
+20191029_restaurant_row_775,11 Inch Pizza,2015,353-359 Little Collins Street,Melbourne (CBD),4,-37.81570426,144.9629844
+20191029_restaurant_row_777,Fruits of Passion,2008,188 Bellair Street,Kensington,20,-37.79392952,144.9299933
+20191029_restaurant_row_778,Aromatic,2004,1-4 Nicholson Street,East Melbourne,80,-37.80899046,144.9735223
+20191029_restaurant_row_779,Nori Nori,2016,377-379 Little Collins Street,Melbourne (CBD),45,-37.81585501,144.9624392
+20191029_restaurant_row_780,The Establishment Restaurant And Lounge-starlyn bar,2006,188-202 King Street,Melbourne (CBD),20,-37.81551353,144.9556244
+20191029_restaurant_row_782,Joseph Swan Deli,2015,501-503 Macaulay Road,Kensington,14,-37.79452502,144.9293517
+20191029_restaurant_row_783,Horse Bazaar,2007,395-397 Little Lonsdale Street,Melbourne (CBD),50,-37.81190077,144.9602499
+20191029_restaurant_row_784,The Drunken Poet,2009,65-67 Peel Street,West Melbourne (Residential),18,-37.80666721,144.955498
+20191029_restaurant_row_785,Fugazza,2013,353-359 Little Collins Street,Melbourne (CBD),6,-37.81570426,144.9629844
+20191029_restaurant_row_786,Idarts Hive,2012,221 Little Lonsdale Street,Melbourne (CBD),70,-37.810658,144.9657034
+20191029_restaurant_row_787,Centro Espresso Caffe,2014,252-254 Flinders Lane,Melbourne (CBD),4,-37.8166033,144.9655966
+20191029_restaurant_row_788,The Golden Triangle Restaurant,2010,185-189 Domain Road,South Yarra,60,-37.8343508,144.9822675
+20191029_restaurant_row_790,Three Below,2008,199-209 Collins Street,Melbourne (CBD),60,-37.81584777,144.9674304
+20191029_restaurant_row_791,Sofitel Hotel,2011,25-45 Collins Street,Melbourne (CBD),470,-37.81430616,144.9726281
+20191029_restaurant_row_793,Melbourne Public,2014,2 Convention Centre Place,Southbank,100,-37.82539976,144.9523782
+20191029_restaurant_row_795,Red Spice QV,2015,221 Little Lonsdale Street,Melbourne (CBD),481,-37.810658,144.9657034
+20191029_restaurant_row_796,SMXL,2014,542-546 Little Bourke Street,Melbourne (CBD),50,-37.81477885,144.9563672
+20191029_restaurant_row_797,Post Deng Cafe,2006,214-216 Little Bourke Street,Melbourne (CBD),120,-37.81204418,144.9662182
+20191029_restaurant_row_798,Gami At Healeys - Chicken & Beer,2016,535 Little Lonsdale Street,Melbourne (CBD),40,-37.8134766,144.9560169
+20191029_restaurant_row_799,Om Vegetarian,2017,221-231 Collins Street,Melbourne (CBD),48,-37.81584476,144.9663304
+20191029_restaurant_row_800,D-Tour on Collins,2012,500-514 Collins Street,Melbourne (CBD),8,-37.81753383,144.9574732
+20191029_restaurant_row_801,Fawkner Park Tennis Centre,2017,65W Toorak Road,South Yarra,15,-37.83804253,144.9800012
+20191029_restaurant_row_803,Caffe E Biscotti,2004,317-321 Little Collins Street,Melbourne (CBD),15,-37.81528948,144.9642254
+20191029_restaurant_row_804,Pop,2014,68-78 Hardware Lane,Melbourne (CBD),60,-37.8130703,144.9611061
+20191029_restaurant_row_805,Food Inc.,2009,183-265 La Trobe Street,Melbourne (CBD),40,-37.81073331,144.9630189
+20191029_restaurant_row_806,Seven Star Korea,2017,535 Little Lonsdale Street,Melbourne (CBD),68,-37.8134766,144.9560169
+20191029_restaurant_row_807,Westlake Restaurant,2006,189-191 Little Bourke Street,Melbourne (CBD),200,-37.812194,144.9669548
+20191029_restaurant_row_809,Perk Up,2013,608-610 Collins Street,Melbourne (CBD),18,-37.81861166,144.9545688
+20191029_restaurant_row_810,Man Mo @ Wtc,2017,18-38 Siddeley Street,Docklands,60,-37.82253633,144.9536422
+20191029_restaurant_row_811,Spot On Motorcycles Pty Ltd,2011,474-476 Elizabeth Street,Melbourne (CBD),30,-37.80770983,144.9605644
+20191029_restaurant_row_812,Dhaka Restaurant & Supplies,2015,145-147 Lonsdale Street,Melbourne (CBD),15,-37.81081665,144.9681529
+20191029_restaurant_row_813,Bluestones 520 Cafe,2012,516-526 Bourke Street,Melbourne (CBD),70,-37.81527349,144.9583865
+20191029_restaurant_row_816,Left Bank Melbourne,2017,1-9 Southbank Boulevard,Southbank,75,-37.8210403,144.9628914
+20191029_restaurant_row_817,Tipo 00,2017,361-363 Little Bourke Street,Melbourne (CBD),44,-37.81358648,144.9619926
+20191029_restaurant_row_818,Zouki Cafe Eye & Ear Hospital,2012,126-142 Victoria Parade,East Melbourne,28,-37.80899054,144.9762558
+20191029_restaurant_row_819,Cocoa Bean Cafe,2013,130-148 William Street,Melbourne (CBD),80,-37.81595642,144.9589392
+20191029_restaurant_row_821,Carlton Mega Bites,2006,68-70 Victoria Street,Carlton,60,-37.80671632,144.9654999
+20191029_restaurant_row_822,Coffea Coffee,2017,507-523 Elizabeth Street,Melbourne (CBD),27,-37.80745984,144.9572395
+20191029_restaurant_row_823,Paris Go Bistro,2009,114-116 Rathdowne Street,Carlton,60,-37.79695652,144.9708841
+20191029_restaurant_row_824,Capitano Restaurant and Bar,2015,89-105 Collins Street,Melbourne (CBD),160,-37.81492031,144.9707498
+20191029_restaurant_row_825,Meshiya Japanese Restaurant,2011,221 Little Lonsdale Street,Melbourne (CBD),12,-37.810658,144.9657034
+20191029_restaurant_row_826,Crazy Wing,2016,177 Russell Street,Melbourne (CBD),40,-37.81229698,144.9675488
+20191029_restaurant_row_829,Caffe Torre,2012,183-265 La Trobe Street,Melbourne (CBD),79,-37.81073331,144.9630189
+20191029_restaurant_row_830,King Star Cafe,2011,171-173 King Street,Melbourne (CBD),40,-37.81608475,144.95526
+20191029_restaurant_row_832,The Harbour Kitchen,2013,788-812 Bourke Street,Docklands,100,-37.81888389,144.9451224
+20191029_restaurant_row_833,City Baths Cafe,2004,420-438 Swanston Street,Melbourne (CBD),23,-37.80700694,144.9633863
+20191029_restaurant_row_834,Cafe Ami,2008,470-496 Swanston Street,Carlton,100,-37.80555235,144.9635132
+20191029_restaurant_row_836,B3 Cafe et Patisserie,2008,258-260 Flinders Lane,Melbourne (CBD),4,-37.81664468,144.9654744
+20191029_restaurant_row_837,Borsari Ristorante,2008,201-203 Lygon Street,Carlton,40,-37.80089707,144.9666725
+20191029_restaurant_row_838,Liquid  Restaurant - Tapas Bar,2010,16-32 Rakaia Way,Docklands,70,-37.81460533,144.9412614
+20191029_restaurant_row_840,Grill'd,2013,3 Southgate Avenue,Southbank,30,-37.82066923,144.9662623
+20191029_restaurant_row_842,NL House,2016,115 Grattan Street,Carlton,12,-37.80080712,144.9656841
+20191029_restaurant_row_843,Hardimans Cafe Bar Restaurant,2010,521-535 Macaulay Road,Kensington,230,-37.79442113,144.9283553
+20191029_restaurant_row_844,Zushi Delight,2008,15-33 William Street,Melbourne (CBD),6,-37.8192157,144.9591876
+20191029_restaurant_row_845,Aloi Na Cafe,2014,59-61 Hardware Lane,Melbourne (CBD),100,-37.81338297,144.9609698
+20191029_restaurant_row_846,Cafe Andiamo,2012,253-265 Flinders Lane,Melbourne (CBD),44,-37.81706291,144.9659028
+20191029_restaurant_row_847,Dumplings Plus,2013,269 Swanston Street,Melbourne (CBD),115,-37.8119541,144.9645747
+20191029_restaurant_row_849,Rajee's Instant Indian,2012,273 King Street,Melbourne (CBD),14,-37.81384802,144.9542801
+20191029_restaurant_row_851,Michelino's Trattoria,2010,53-75 Pelham Street,Carlton,16,-37.80324285,144.9671858
+20191029_restaurant_row_855,Cafe ERA,2005,183-265 La Trobe Street,Melbourne (CBD),60,-37.81073331,144.9630189
+20191029_restaurant_row_857,RACV City Club,2015,483-501 Bourke Street,Melbourne (CBD),650,-37.81587957,144.9595925
+20191029_restaurant_row_858,BP Australia,2006,467-469 Footscray Road,West Melbourne (Industrial),66,-37.80929847,144.9273935
+20191029_restaurant_row_860,Bar Ampere,2016,16-30 Russell Place,Melbourne (CBD),78,-37.81355434,144.9674275
+20191029_restaurant_row_861,Full Plate Cafe,2012,517-537 Flinders Lane,Melbourne (CBD),12,-37.81988484,144.9566017
+20191029_restaurant_row_863,Interval Coffee Shop,2002,164-170 Flinders Street,Melbourne (CBD),6,-37.81670922,144.9690862
+20191029_restaurant_row_864,Bistro Du Monde,2013,302-308 Flinders Lane,Melbourne (CBD),22,-37.81719967,144.9638971
+20191029_restaurant_row_865,Russell Street King's Kebab,2007,163-169 Russell Street,Melbourne (CBD),4,-37.81246709,144.9676479
+20191029_restaurant_row_866,Hell's Kitchen,2009,252-254 Flinders Lane,Melbourne (CBD),55,-37.8166033,144.9655966
+20191029_restaurant_row_868,Bench & Co,2013,200-222 Queen Street,Melbourne (CBD),50,-37.81352285,144.9604697
+20191029_restaurant_row_869,Huxtaburger,2016,351-357 Collins Street,Melbourne (CBD),15,-37.81722704,144.9627888
+20191029_restaurant_row_874,Al-Khaleej Restaurant,2016,84-90 Lorimer Street,Docklands,38,-37.82438863,144.9435506
+20191029_restaurant_row_877,Oree,2015,175-183 Queen Street,Melbourne (CBD),50,-37.81452036,144.9599857
+20191029_restaurant_row_878,Cafe,2002,450 Footscray Road,West Melbourne (Industrial),37,-37.80811348,144.9307526
+20191029_restaurant_row_880,Donwoori,2016,268-276 Victoria Street,North Melbourne,36,-37.80580455,144.9573902
+20191029_restaurant_row_882,Hilton Hotels of Australia (Melbourne) Pty Ltd,2007,178-226 Wellington Parade,East Melbourne,170,-37.81582277,144.9834989
+20191029_restaurant_row_883,CBD Cafe,2002,403 St Kilda Road,Melbourne (Remainder),12,-37.83587066,144.975942
+20191029_restaurant_row_884,Paris End Cafe,2006,18-22 Collins Street,Melbourne (CBD),20,-37.81330535,144.9728919
+20191029_restaurant_row_886,Barista Cafe,2002,242-284 Exhibition Street,Melbourne (CBD),52,-37.80941489,144.9699756
+20191029_restaurant_row_887,Chatter Box - Curry & Noodle Bar,2003,235-251 Bourke Street,Melbourne (CBD),17,-37.81376503,144.9665978
+20191029_restaurant_row_888,Zingarella,2007,189 Lygon Street,Carlton,22,-37.8011904,144.966488
+20191029_restaurant_row_889,Yang's Braised Chicken Rice,2016,234 Little Bourke Street,Melbourne (CBD),70,-37.81222127,144.9658727
+20191029_restaurant_row_890,Mocha Expresso,2013,3 Southgate Avenue,Southbank,9,-37.82066923,144.9662623
+20191029_restaurant_row_892,Ramen Ya,2011,338-352 Bourke Street,Melbourne (CBD),18,-37.81360425,144.9632879
+20191029_restaurant_row_893,Rice Paper Vietnamese Restaurant,2015,243-249 Swanston Street,Melbourne (CBD),74,-37.81230108,144.9647365
+20191029_restaurant_row_894,Oskar,2011,1-5 Errol Street,North Melbourne,25,-37.80488639,144.9489789
+20191029_restaurant_row_899,Nusantara,2013,235-251 Bourke Street,Melbourne (CBD),16,-37.81376503,144.9665978
+20191029_restaurant_row_901,Bernardi's Family Trattoria,2002,152-154 Lygon Street,Carlton,18,-37.80359309,144.9667447
+20191029_restaurant_row_902,Williams Bar Cafe,2009,1-13 William Street,Melbourne (CBD),100,-37.81943285,144.9595106
+20191029_restaurant_row_903,Tea House At Chinatown,2008,11-17 Cohen Place,Melbourne (CBD),100,-37.81104301,144.9689152
+20191029_restaurant_row_906,Hudsons Coffee,2012,449-455 Bourke Street,Melbourne (CBD),25,-37.81527162,144.9605077
+20191029_restaurant_row_910,Baraonda,2013,18-38 Siddeley Street,Docklands,9,-37.82253633,144.9536422
+20191029_restaurant_row_913,CY Sushi & Noodle,2015,471 Elizabeth Street,Melbourne (CBD),14,-37.80794087,144.9599508
+20191029_restaurant_row_914,5 Solars Restaurant,2016,8-10 Kavanagh Street,Southbank,14,-37.82241845,144.9666055
+20191029_restaurant_row_915,Riva Bar Cafe,2007,309-325 Bourke Street,Melbourne (CBD),55,-37.81445406,144.9645323
+20191029_restaurant_row_916,Lazzat on Lygon,2013,112 Lygon Street,Carlton,16,-37.80443778,144.9666993
+20191029_restaurant_row_918,Chutney Bar,2011,408-416 Queen Street,Melbourne (CBD),40,-37.80897917,144.9585116
+20191029_restaurant_row_919,York Cafe,2007,330-344 Little Lonsdale Street,Melbourne (CBD),70,-37.81181165,144.9596748
+20191029_restaurant_row_920,The Merrywell,2015,8 Whiteman Street,Southbank,80,-37.82312164,144.9586604
+20191029_restaurant_row_922,The Khan Mongolian Bbq Restaurant,2010,295-301 Exhibition Street,Melbourne (CBD),100,-37.80893166,144.9688284
+20191029_restaurant_row_923,Carlton Yacht Club Bar,2004,298 Lygon Street,Carlton,25,-37.79998572,144.9673764
+20191029_restaurant_row_924,STREAT,2016,384-390 Little Collins Street,Melbourne (CBD),9,-37.81560573,144.9617411
+20191029_restaurant_row_925,FM Karaoke Bar,2014,146-150 Bourke Street,Melbourne (CBD),15,-37.81235798,144.9687387
+20191029_restaurant_row_926,Taste Buds Sandwich Bar,2003,42-56 Franklin Street,Melbourne (CBD),8,-37.80752137,144.9612242
+20191029_restaurant_row_928,Sheila Baxter Training Centre Pty Ltd,2016,91-93 Queens Bridge Street,Southbank,6,-37.82435995,144.9609065
+20191029_restaurant_row_929,Beanstalk Cafe,2014,790-814 Collins Street,Docklands,57,-37.821044,144.9458305
+20191029_restaurant_row_930,Ozford Junction Cafe,2011,570 Lygon Street,Carlton,40,-37.79315689,144.9691265
+20191029_restaurant_row_931,Essence Cafe & Bar,2008,788-812 Bourke Street,Docklands,60,-37.81888389,144.9451224
+20191029_restaurant_row_932,Cherry & Twigs,2015,547-555 Flinders Lane,Melbourne (CBD),24,-37.82001952,144.9558379
+20191029_restaurant_row_933,Killiney Kopitiam,2017,114 Lygon Street,Carlton,27,-37.80443778,144.9666993
+20191029_restaurant_row_934,Bullrun,2015,107-109 Flinders Lane,Melbourne (CBD),4,-37.81560645,144.9708344
+20191029_restaurant_row_935,Petaling Street Malaysian Hawker Food,2016,178-190 Little Bourke Street,Melbourne (CBD),110,-37.81186912,144.966942
+20191029_restaurant_row_936,Mecca Bah,2003,55 Newquay Promenade,Docklands,40,-37.8153411,144.9414051
+20191029_restaurant_row_937,Souvlaki Bar,2004,163-169 Russell Street,Melbourne (CBD),30,-37.81246709,144.9676479
+20191029_restaurant_row_939,The White Lotus Vegetarian Cafe,2008,183-185 Victoria Street,West Melbourne (Residential),60,-37.80604869,144.9554422
+20191029_restaurant_row_941,The Queen's Bees Cafe,2010,562-564 Queensberry Street,North Melbourne,20,-37.80271962,144.9487134
+20191029_restaurant_row_942,Spicy Korea,2017,601-611 Little Collins Street,Melbourne (CBD),38,-37.81802782,144.9549054
+20191029_restaurant_row_943,Sheni's Curries,2013,141-165 Collins Street,Melbourne (CBD),8,-37.81543178,144.9687553
+20191029_restaurant_row_945,Villa & Hut Cafe,2012,20-30 Convention Centre Place,Southbank,80,-37.82539976,144.9523782
+20191029_restaurant_row_947,Eureka 89 Pty Ltd,2008,3-7 Riverside Quay,Southbank,150,-37.82166549,144.9645668
+20191029_restaurant_row_949,Caffe Esc,2015,791-847 Collins Street,Docklands,36,-37.82205739,144.9457644
+20191029_restaurant_row_951,Max Bar & Restaurant,2015,54-58 Hardware Lane,Melbourne (CBD),90,-37.81339488,144.9612623
+20191029_restaurant_row_952,Medici Cafe bar,2004,24-42 Newquay Promenade,Docklands,136,-37.81434525,144.942139
+20191029_restaurant_row_953,Pide Bread Bakery,2009,65-81 Victoria Street,Melbourne (CBD),12,-37.80745984,144.9572395
+20191029_restaurant_row_955,Witches In Britches,2010,78-86 Dudley Street,West Melbourne (Residential),350,-37.80890193,144.952636
+20191029_restaurant_row_957,Three Degrees,2013,221 Little Lonsdale Street,Melbourne (CBD),150,-37.810658,144.9657034
+20191029_restaurant_row_958,Designed For Livin,2015,874-886 Lorimer Street,Port Melbourne,16,-37.82366685,144.9362954
+20191029_restaurant_row_959,Gills Diner,2010,358-360 Little Collins Street,Melbourne (CBD),60,-37.81528248,144.9626388
+20191029_restaurant_row_961,Rendez Vue,2008,70 Speakmen Street,Kensington,14,-37.79387621,144.9163635
+20191029_restaurant_row_962,Tazio Birraria & Pizzeria,2017,45 Collins Street,Melbourne (CBD),60,-37.81430616,144.9726281
+20191029_restaurant_row_963,Grill'd Healthy Burgers,2010,350 Lygon Street,Carlton,56,-37.79887015,144.9675264
+20191029_restaurant_row_964,Panda Loves Fish,2017,790-814 Collins Street,Docklands,18,-37.821044,144.9458305
+20191029_restaurant_row_966,Schnitz QV,2014,221 Little Lonsdale Street,Melbourne (CBD),134,-37.810658,144.9657034
+20191029_restaurant_row_967,Shanghai Street,2015,219-233 Elizabeth Street,Melbourne (CBD),24,-37.81321386,144.9622831
+20191029_restaurant_row_969,Two Fish Seafood Cafe,2015,457-469 Little Collins Street,Melbourne (CBD),14,-37.81660734,144.95955
+20191029_restaurant_row_970,Donnini's Pty Ltd,2005,320 Lygon Street,Carlton,70,-37.79953749,144.9675104
+20191029_restaurant_row_972,Royal Fig Cafe,2010,300-328 Grattan Street,Parkville,52,-37.79854141,144.9559628
+20191029_restaurant_row_973,Clocks At Flinders Street Station,2011,207-361 Flinders Street,Melbourne (CBD),78,-37.81866105,144.9654659
+20191029_restaurant_row_974,Ec Pot Cafe Bar,2013,221 Little Lonsdale Street,Melbourne (CBD),16,-37.810658,144.9657034
+20191029_restaurant_row_975,Jeremy's Hardware Lane Cafe & Bar,2006,13-15 Hardware Lane,Melbourne (CBD),55,-37.8142907,144.9614053
+20191029_restaurant_row_976,Mag Nation Pty Ltd,2017,88 Elizabeth Street,Melbourne (CBD),12,-37.81584627,144.9642408
+20191029_restaurant_row_977,Simply Spanish,2016,555 Bourke Street,Melbourne (CBD),25,-37.81636534,144.9578132
+20191029_restaurant_row_980,Red Cup Cafe,2008,331-339 Bourke Street,Melbourne (CBD),8,-37.81458812,144.964049
+20191029_restaurant_row_981,Nine Elephants Thai Restaurant,2013,737-743 Bourke Street,Docklands,38,-37.81914692,144.9489519
+20191029_restaurant_row_982,Sushi Bar Aka Tombo,2012,11-19 Liverpool Street,Melbourne (CBD),35,-37.81131159,144.9713242
+20191029_restaurant_row_984,Fish Bar,2014,25 Newquay Promenade,Docklands,60,-37.81473601,144.9427543
+20191029_restaurant_row_987,University Cafe,2011,255-257 Lygon Street,Carlton,56,-37.79947744,144.9668382
+20191029_restaurant_row_988,Carlton Fish & Chips,2017,178 Rathdowne Street,Carlton,4,-37.79518777,144.9711835
+20191029_restaurant_row_989,The Lyceum Club,2013,2-18 Ridgway Place,Melbourne (CBD),85,-37.81314963,144.9725952
+20191029_restaurant_row_992,Angliss Bistro,2011,555 La Trobe Street,Melbourne (CBD),60,-37.81327283,144.9528962
+20191029_restaurant_row_993,Saigon Inn Vietnamese Restaurant,2009,11-19 Liverpool Street,Melbourne (CBD),8,-37.81131159,144.9713242
+20191029_restaurant_row_994,Bear Brass,2005,3 Southgate Avenue,Southbank,60,-37.82066923,144.9662623
+20191029_restaurant_row_996,No 8 Exhibition Cafe,2014,46-74 Flinders Street,Melbourne (CBD),80,-37.81546181,144.9727209
+20191029_restaurant_row_997,Cafe All Angalo,2006,387 Little Bourke Street,Melbourne (CBD),25,-37.81379622,144.9613937
+20191029_restaurant_row_998,St James Take Away Food,2006,121 William Street,Melbourne (CBD),38,-37.81636534,144.9578132
