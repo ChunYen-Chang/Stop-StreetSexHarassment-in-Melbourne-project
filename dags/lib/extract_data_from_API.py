@@ -43,7 +43,7 @@ def get_bar_data_from_api():
                 
         # save result into a csv file
         csv_created_time = datetime.datetime.now().strftime('%Y%m%d')
-        result_df.to_csv('bar_' + csv_created_time + '.csv' ,header=False, index=False)
+        result_df.to_csv('/home/ubuntu/airflow/dags/data_from_API/bar_' + csv_created_time + '.csv' ,header=False, index=False)
         print('Data bar_' + csv_created_time + '.csv already saved.')
 
 	# return the file name to airflow context
@@ -87,7 +87,7 @@ def get_streetlight_data_from_api():
         
         # save result into a csv file
         csv_created_time = datetime.datetime.now().strftime('%Y%m%d')
-        result_df.to_csv('streetlight_' + csv_created_time + '.csv' ,header=False, index=False)
+        result_df.to_csv('/home/ubuntu/airflow/dags/data_from_API/streetlight_' + csv_created_time + '.csv' ,header=False, index=False)
         print('Data streetlight_' + csv_created_time + '.csv already saved.')
     
 	# return the file name to airflow context
@@ -134,7 +134,7 @@ def get_restaurant_data_from_api():
         
         # save result into a csv file
         csv_created_time = datetime.datetime.now().strftime('%Y%m%d')
-        result_df.to_csv('restaurant_' + csv_created_time + '.csv' ,header=False, index=False)
+        result_df.to_csv('/home/ubuntu/airflow/dags/data_from_API/restaurant_' + csv_created_time + '.csv' ,header=False, index=False)
         print('Data restaurant_' + csv_created_time + '.csv already saved.')
     
 	# return the file name to airflow context
@@ -179,7 +179,7 @@ def get_construction_data_from_api():
         
         # save result into a csv file
         csv_created_time = datetime.datetime.now().strftime('%Y%m%d')
-        result_df.to_csv('construction_' + csv_created_time + '.csv' ,header=False, index=False)
+        result_df.to_csv('/home/ubuntu/airflow/dags/data_from_API/construction_' + csv_created_time + '.csv' ,header=False, index=False)
         print('Data construction_' + csv_created_time + '.csv already saved.')
     
 	# return the file name to airflow context
@@ -219,7 +219,7 @@ def get_pedestrian_data_from_api():
         
         # create a row_index column and rearrange the column order in this dataframe
         result_df = result_df.reset_index()
-        result_df['row_index'] = rawdata_df['index'].apply(lambda x: datetime.datetime.now().strftime('%Y%m%d') + '_pedestrian_row_' + str(x))
+        result_df['row_index'] = result_df['index'].apply(lambda x: datetime.datetime.now().strftime('%Y%m%d') + '_pedestrian_row_' + str(x))
         result_df = result_df.drop(columns='index')
         result_df = result_df[['row_index', 'sensor_id', 'sensor_name', 'sensor_description', 'status', \
                       'latitude', 'longitude', 'date', 'time', 'total_of_directions']]
@@ -237,11 +237,11 @@ def get_pedestrian_data_from_api():
         
         # save result into a csv file
         csv_created_time = datetime.datetime.now().strftime('%Y%m%d')
-        result_df.to_csv('pedestrian_' + csv_created_time + '.csv' ,header=False, index=False)
+        result_df.to_csv('/home/ubuntu/airflow/dags/data_from_API/pedestrian_' + csv_created_time + '.csv' ,header=False, index=False)
         print('Data pedestrian_' + csv_created_time + '.csv already saved.')
 
     	# return the file name to airflow context
-	return 'construction_' + csv_created_time + '.csv'
+	return 'pedestrian_' + csv_created_time + '.csv'
 
     else:
         print('some errors occur when getting pedestrain data, please check your code')
