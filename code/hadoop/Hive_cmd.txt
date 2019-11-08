@@ -1,0 +1,107 @@
+# create a database in hive
+CREATE DATABASE IF NOT EXISTS melproject;
+
+
+# drop hive tables
+DROP TABLE melproject.restaurant;
+DROP TABLE melproject.streetlight;
+DROP TABLE melproject.bar;
+DROP TABLE melproject.construction;
+DROP TABLE melproject.pedestrian;
+DROP TABLE melproject.tweet;
+
+
+# create tables
+CREATE TABLE IF NOT EXISTS melproject.bar
+(Datetime_row_index STRING,
+trading_name STRING,
+census_year INT,
+street_address STRING,
+clue_small_area STRING,
+number_of_patrons INT,
+latitude DOUBLE,
+longitude DOUBLE)
+COMMENT 'bar details'
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE;
+
+
+CREATE TABLE IF NOT EXISTS melproject.restaurant
+(Datetime_row_index STRING,
+trading_name STRING,
+census_year INT,
+street_address STRING,
+clue_small_area STRING,
+number_of_seats INT,
+latitude DOUBLE,
+longitude DOUBLE)
+COMMENT 'restaurant details'
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE;
+
+
+CREATE TABLE IF NOT EXISTS melproject.streetlight
+(Datetime_row_index STRING,
+asset_number INT,
+asset_description STRING,
+lamp_type_lupvalue INT,
+lamp_rating_w INT,
+mounting_type_lupvalue STRING,
+latitude DOUBLE,
+longitude DOUBLE)
+COMMENT 'streetlight details'
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE;
+
+
+CREATE TABLE IF NOT EXISTS melproject.construction
+(Datetime_row_index STRING,
+development_key STRING,
+status STRING,
+clue_small_area STRING,
+street_address STRING,
+floor_above INT,
+car_spaces INT,
+latitude DOUBLE,
+longitude DOUBLE)
+COMMENT 'construction details'
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE;
+
+
+CREATE TABLE IF NOT EXISTS melproject.pedestrian
+(Datetime_row_index STRING,
+sensor_id INT,
+sensor_name STRING,
+sensor_description STRING,
+sensor_status STRING,
+latitude DOUBLE,
+longitude DOUBLE,
+ddate STRING,
+time STRING,
+pedestrain_num INT)
+COMMENT 'construction details'
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE;
+
+
+CREATE TABLE IF NOT EXISTS melproject.tweet
+(Datetime_row_index STRING,
+twitter_ID STRING,
+twitter_post STRING,
+twitter_time STRING)
+COMMENT 'twitter details'
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE;

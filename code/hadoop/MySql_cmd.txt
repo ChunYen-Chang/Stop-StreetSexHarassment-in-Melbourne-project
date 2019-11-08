@@ -1,0 +1,79 @@
+# create a database 
+CREATE DATABASE melproject;
+
+# use a specific database
+use melproject;
+
+# drop tables
+DROP TABLE restaurant;
+DROP TABLE streetlight;
+DROP TABLE bar;
+DROP TABLE construction;
+DROP TABLE pedestrian;
+DROP TABLE tweet;
+
+# create tablea
+CREATE TABLE restaurant
+(Datetime_row_index VARCHAR(255) NOT NULL,
+trading_name VARCHAR(255),
+census_year INT,
+street_address VARCHAR(255),
+clue_small_area VARCHAR(255),
+number_of_seats INT,
+latitude DECIMAL(10,7),
+longitude DECIMAL(10,7),
+PRIMARY KEY (Datetime_row_index));
+
+CREATE TABLE streetlight
+(Datetime_row_index VARCHAR(255) NOT NULL,
+asset_number INT,
+asset_description VARCHAR(255),
+lamp_type_lupvalue INT,
+lamp_rating_w INT,
+mounting_type_lupvalue VARCHAR(255),
+latitude DECIMAL(10,7),
+longitude DECIMAL(10,7),
+PRIMARY KEY (Datetime_row_index));
+
+CREATE TABLE bar
+(Datetime_row_index VARCHAR(255) NOT NULL,
+trading_name VARCHAR(255),
+census_year INT,
+street_address VARCHAR(255),
+clue_small_area VARCHAR(255),
+number_of_patrons INT,
+latitude DECIMAL(10,7),
+longitude DECIMAL(10,7),
+PRIMARY KEY (Datetime_row_index));
+
+CREATE TABLE construction
+(Datetime_row_index VARCHAR(255) NOT NULL,
+development_key VARCHAR(255),
+status VARCHAR(255),
+clue_small_area VARCHAR(255),
+street_address VARCHAR(255),
+floor_above INT,
+car_spaces INT,
+latitude DECIMAL(10,7),
+longitude DECIMAL(10,7),
+PRIMARY KEY (Datetime_row_index));
+
+CREATE TABLE pedestrian
+(Datetime_row_index VARCHAR(255) NOT NULL,
+sensor_id INT,
+sensor_name VARCHAR(255),
+sensor_description VARCHAR(255),
+sensor_status VARCHAR(255),
+latitude DECIMAL(10,7),
+longitude DECIMAL(10,7),
+date VARCHAR(255),
+time VARCHAR(255),
+pedestrain_num INT,
+PRIMARY KEY (Datetime_row_index));
+
+CREATE TABLE tweet
+(Datetime_row_index VARCHAR(255) NOT NULL,
+twitter_ID VARCHAR(255),
+twitter_post VARCHAR(255),
+twitter_time VARCHAR(255),
+PRIMARY KEY (Datetime_row_index));

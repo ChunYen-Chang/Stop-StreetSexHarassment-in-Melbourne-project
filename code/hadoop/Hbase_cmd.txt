@@ -1,0 +1,22 @@
+# create tables in Hbase
+create 'bar','cf'
+create 'construction','cf'
+create 'pedestrian','cf'
+create 'restaurant','cf'
+create 'streetlight','cf'
+create 'tweet','cf'
+
+
+# drop tables in Hbase
+disable 'bar'
+drop 'bar'
+disable 'construction'
+drop 'construction'
+disable 'pedestrian'
+drop 'pedestrian'
+disable 'restaurant'
+drop 'restaurant'
+disable 'streetlight'
+drop 'streetlight'
+disable 'tweet'
+drop 'tweet'

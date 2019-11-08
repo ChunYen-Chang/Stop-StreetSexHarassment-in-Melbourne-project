@@ -1,0 +1,10 @@
+# create "data" directory in hdfs and change the access permissions
+hadoop fs -mkdir /data
+hadoop fs -chmod o+w /data
+hadoop fs -chmod g+w /data
+
+
+# create "flume" directory in hdfs and change the access permissions
+hadoop fs -mkdir /flume
+hadoop fs -chmod o+w /flume
+hadoop fs -chmod g+w /flume
