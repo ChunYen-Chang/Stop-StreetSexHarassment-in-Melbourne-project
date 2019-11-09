@@ -188,14 +188,16 @@ and follow all steps in this instruction
 1. Access to the the EC2 instance you created in step3, open "/home/ubuntu/tweet" directory, type `python extract_data_from_tweet.py` to 
 launch the process of extracting data from Twitter API. Then, change directory to "/opt/flume/apache-flume-1.6.0-bin", type `bin/flume-ng agent -c conf -f conf/melproject.conf -n a1 -Dflume.root.logger=INFO,console` to start the Apache Flume service  
 
-2. Access to the the EC2 instance you created in step4. Type `airflow initdb` , `airflow webserver -p 8080 & >>/dev/null`, `airflow scheduler & >>/dev/null` to start the Apache Flume service  
+2. Access to the the EC2 instance you created in step4. Change directory to "/home/ubuntu/airflow/dags/configuration" and modify the "project.cfg" file
 
-3. Access to the the EC2 instance you created in step4 with port 8080 by using you web browser. You can see the below picture.  
+3. Access to the the EC2 instance you created in step4. Type `airflow initdb` , `airflow webserver -p 8080 & >>/dev/null`, `airflow scheduler & >>/dev/null` to start the Apache Flume service  
+
+4. Access to the the EC2 instance you created in step4 with port 8080 by using you web browser. You can see the below picture.  
 <p align="center">
   <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_01.png">
 </p>
   
-4. Now you can check the first data pipeline (restaurant, bar, construction site, streetlight datasets) to see the DAG structure 
+5. Now you can check the first data pipeline (restaurant, bar, construction site, streetlight datasets) to see the DAG structure 
 <p align="center">
   <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_02.png">
 </p>  
@@ -204,7 +206,7 @@ launch the process of extracting data from Twitter API. Then, change directory t
   <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_03.png">
 </p>  
 
-5. Check the second data pipeline (pedestrian dataset) to see the DAG structure 
+6. Check the second data pipeline (pedestrian dataset) to see the DAG structure 
 <p align="center">
   <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_04.png">
 </p>  
@@ -213,7 +215,7 @@ launch the process of extracting data from Twitter API. Then, change directory t
   <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_05.png">
 </p> 
 
-6. Check the third data pipeline (tweet dataset) to see the DAG structure 
+7. Check the third data pipeline (tweet dataset) to see the DAG structure 
 <p align="center">
   <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_06.png">
 </p>  
@@ -222,7 +224,7 @@ launch the process of extracting data from Twitter API. Then, change directory t
   <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_07.png">
 </p> 
 
-7. Click the "ON button" to start data pipelines
+8. Click the "ON button" to start data pipelines
 <p align="center">
   <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_08.png">
 </p> 
@@ -235,7 +237,7 @@ launch the process of extracting data from Twitter API. Then, change directory t
   <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_13.png">
 </p> 
 
-8. Monitor data pipelines
+9. Monitor data pipelines
 <p align="center">
   <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_09.png">
 </p> 
