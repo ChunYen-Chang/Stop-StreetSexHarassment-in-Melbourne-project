@@ -1,10 +1,11 @@
-
-  
+<p align="center">
+  <img width="1000" height="450" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/project_logo.jpg">
+</p>  
   
 # Stop Street SexHarassment in MElbourne
 
 #### *PROJECT BACKGROUND and DESCRIPTION*
-What is the social problem in Melbourne CBD now? Different people may have different opinions. But, Based on the report from Australian 
+What's the considerable social problem in Melbourne CBD now? Different people may have different opinions. But, Based on the report from Australian 
 Broadcasting Corporation News (ABC News), this report points that even the crime rate in Melbourne CBD has a going-down trend from 
 2009 to 2018, the rate of sex crime (especially the street harassment rate)has risen every year since 2013 (Kerr, 2018). At the same 
 time, Victoria Government recently released several advertisement to urge females to call out when they experience street sex 
