@@ -81,6 +81,16 @@ ANS: Yes, of course. You can check the picture below .
   <img width="800" height="600" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/datasets_table.jpeg">
 </p>
 
+3. **Q3:Where can I find the data this project use?**  
+
+ANS: The data sources for this project are listed below.  
+
+    1. bar location: https://data.melbourne.vic.gov.au/resource/mffi-m9yn.json  
+    2. restaurant location: https://data.melbourne.vic.gov.au/resource/xt2y-tnn9.json  
+    3. construction site location: https://data.melbourne.vic.gov.au/resource/gh7s-qda8.json  
+    4. streetlight location and number: https://data.melbourne.vic.gov.au/resource/4j42-79hg.json  
+    5. pedestrian number at a specific area: https://data.melbourne.vic.gov.au/resource/h57g-5234.json  
+    6. Twitter post: Twitter streaming API  
 
 ------------
 #### SOFTWATE VERSION IN THIS PROJECT
@@ -130,6 +140,113 @@ ANS: Yes, of course. You can check the picture below .
         4. **MySql_cmd.txt**: The command of creating database, creating talbes, and dropping tables in Mysql
     3. **flume folder**: This folder includes all codes of flume part
         1. **Twitter_data_extraction folder**: It includes python code of extracting data from Twitter API
-        2. **flume**: It includes the flume configuration file
+        2. **flume_conf**: It includes the flume configuration file
 
+------------
+#### HOW TO RUN THE PROJECT
+In order to run this project, you need to finish five steps. The first step is about AWS EMR cluster. The second step is about 
+setting up a MySQL database. The third step is about launching a Data extraction server which allow us to extract data from Twitter 
+and installing Apache flume in this server for moving data to HDFS. The fourth step is about launching a Data extraction server 
+that let us to get data from Melbourne Government opendata API and installing Apache airflow in this server for scheduling tasks. 
+The fifth step is about starting all data pipelines.
+
+**STEP ONE: AWS EMR CLUSTER**  
+1. Please check the install instruction "project_relating_softwate_install_instruction/aws_emr/AWS_EMR_LAUNCH_INSTRUCTION.md", 
+and follow all steps in this instruction  
+
+2. Connect to Hadoop Name node, create *data* and *flume* directory under "/" HDFS path, and change the access permission for these directorys. You can find the relating command in "code/hadoop/Hadoop_cmd.txt"  
+
+3. Connect to Hadoop Name node, type `hbase shell` to enter the Hbase shell, and create bar, restaurant, construction, pedestrian, streetlight, and tweet tables. The relating command is in "code/hadoop/Hbase_cmd.txt"  
+
+4. Connect to Hadoop Name node, type `hive` to enter the Hive shell, and create bar, restaurant, construction, pedestrian, streetlight, and tweet tables. The relating command is in "code/hadoop/Hive_cmd.txt" 
+   
+**PART TWO: SETTING UP A MySQL DATABASE**  
+1. Please check the install instruction "project_relating_softwate_install_instruction/mysql/MYSQL_REMOTE_ACCESS_INSTALL_INSTRUCTION.md", and follow all steps in this instruction  
+
+2. Connect to this MySQL database, and create a database call melproject.  
+
+3. Create bar, restaurant, construction, pedestrian, streetlight, and tweet tables. You can find the relating command in "code/hadoop/MySql_cmd.txt"
+
+**PART THREE: LAUNCH A DATA EXTRACTION SERVER WHICH ALLOW US TO EXTRACT DATA FROM TWITTER AND INSTALLAPACHE FLUME**  
+1. Create an AWS EC2 instance and access to this EC2 instance  
+
+2. Create a directory which is call tweet under "/home/ubuntu/" path in this EC2 instance, and copy "/code/flume/Twitter_data_extraction folder" from this github repository to the directory  
+
+3. Follow the instruction "project_relating_softwate_install_instruction/flume/FLUME_INSTALL_INSTRUCTION.md" to install Apache flume in this EC2 instance  
+
+4. Copy "/code/flume/flume_conf/melproject.conf" from this github repository to the AWS EC2 instance path--"/opt/flume/apache-flume-1.6.0-bin/conf/"
+
+**PART FOUR: LAUNCH A DATA EXTRACTION SERVER WHICH LET US TO GET DATA FROM MELBOURNE GOVERNMENT API AND INSTALL APACHE AIRFLOW**  
+1. Create an AWS EC2 instance and access to this EC2 instance  
+
+2. Please follow the instruction "project_relating_softwate_install_instruction/airflow/AIRFLOW_INSTALL_INSTRUCTION.md" to install Apache Airflow in this AWS EC2 instance  
+
+3. Copy "code/dags" from this github repository to the AWS EC2 instance path--"/home/ubuntu/airflow/"
+
+**PART FIFTH: START ALL DATA PIPELINES**  
+1. Access to the the EC2 instance you created in step3, open "/home/ubuntu/tweet" directory, type `python extract_data_from_tweet.py` to 
+launch the process of extracting data from Twitter API. Then, change directory to "/opt/flume/apache-flume-1.6.0-bin", type `bin/flume-ng agent -c conf -f conf/melproject.conf -n a1 -Dflume.root.logger=INFO,console` to start the Apache Flume service  
+
+2. Access to the the EC2 instance you created in step4. Type `airflow initdb` , `airflow webserver -p 8080 & >>/dev/null`, `airflow scheduler & >>/dev/null` to start the Apache Flume service  
+
+3. Access to the the EC2 instance you created in step4 with port 8080 by using you web browser. You can see the below picture.  
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_01.png">
+</p>
+  
+4. Now you can check the first data pipeline (restaurant, bar, construction site, streetlight datasets) to see the DAG structure 
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_02.png">
+</p>  
+
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_03.png">
+</p>  
+
+5. Check the second data pipeline (pedestrian dataset) to see the DAG structure 
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_04.png">
+</p>  
+
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_05.png">
+</p> 
+
+6. Check the third data pipeline (tweet dataset) to see the DAG structure 
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_06.png">
+</p>  
+
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_07.png">
+</p> 
+
+7. Click the "ON button" to start data pipelines
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_08.png">
+</p> 
+
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_10.png">
+</p> 
+
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_13.png">
+</p> 
+
+8. Monitor data pipelines
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_09.png">
+</p> 
+
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_12.png">
+</p> 
+
+<p align="center">
+  <img width="950" height="650" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/readme_airflow_15.png">
+</p> 
+
+
+**PART FINAL: CONGRADUATION! YOU ALREADY FINISH ALL NECESSARY STEPS TO RUN THIS PEOJECT!**  
 
