@@ -1,0 +1,5 @@
+consumer_api_key = 498VNNPK7tk7uktdZ4ApoZJpL
+consumer_api_secret_key = Z0y2Y5Rsvos5TU7RNWr5XvVAXYUjtNfdClIpeNsDk6v5fcl7O4
+access_token = 1938036668-aAQgbdUjFgFLgJ0zPSbD0Sr7zOjVq6Hyo4yos0Y
+access_token_secret = 5kyK1NfBa1yBTLm7S5B66zEJZViX3eqCEYvXSjHT0iERF
+
