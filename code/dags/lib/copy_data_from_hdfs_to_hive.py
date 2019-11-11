@@ -59,14 +59,20 @@ def upload_data_to_hive_table(hive_server_ip, hive_server_port, database_name, t
         # retrive file name from previous task through Xcom
         ti = kwargs['ti']
         file_name = ti.xcom_pull(task_ids=previous_task_id)
-        hdfs_file_path = '/data/' + file_name
+        hdfs_file_datafolder_path = '/data/' + file_name
+	hdfs_file_flumefolder_path = '/flume/' + file_name
 
         # connect to hive
         conn = hive.connect(host=hive_server_ip, port=hive_server_port, username='root')
         cursor = conn.cursor()
 
-        # upload fils from hdfs to hive
-        upload_cmd = "load data inpath '" + hdfs_file_path + "' into table "+ database_name + "." + table_name
+	# choose different upload_cmd
+	if 'tweet' in file_name:
+		upload_cmd = "load data inpath '" + hdfs_file_flumefolder_path + "' into table "+ database_name + "." + table_name
+	else:
+		upload_cmd = "load data inpath '" + hdfs_file_datafolder_path + "' into table "+ database_name + "." + table_name
+
+	# upload fils from hdfs to hive
         cursor.execute(upload_cmd)
 
         # close the connection
