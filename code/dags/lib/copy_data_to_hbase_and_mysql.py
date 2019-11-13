@@ -9,7 +9,8 @@ hbase_cmd = {
 'construction':"sudo hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.separator=',' -Dimporttsv.columns='HBASE_ROW_KEY,cf:development_key, cf:status, cf:area, cf:address, cf:floor, cf:car_space, cf:lat, cf:lon' construction ",
 'pedestrian':"sudo hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.separator=',' -Dimporttsv.columns='HBASE_ROW_KEY,cf:sensor_id, cf:sensor_name, cf:sensor_description, cf:sensor_status, cf:lat, cf:lon, cf:date, cf:time, cf:pedestrain_num' pedestrian ",
 'restaurant':"sudo hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.separator=',' -Dimporttsv.columns='HBASE_ROW_KEY,cf:trading_name, cf:census_year, cf:address, cf:area, cf:seats, cf:lat, cf:lon' restaurant ",
-'streetlight':"sudo hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.separator=',' -Dimporttsv.columns='HBASE_ROW_KEY,cf:asset_number, cf:asset_description, cf:lamp_type_lupvalue, cf:lamp_rating_w, cf:mounting_type_lupvalue, cf:lat, cf:lon' streetlight "
+'streetlight':"sudo hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.separator=',' -Dimporttsv.columns='HBASE_ROW_KEY,cf:asset_number, cf:asset_description, cf:lamp_type_lupvalue, cf:lamp_rating_w, cf:mounting_type_lupvalue, cf:lat, cf:lon' streetlight ",
+'tweet':"sudo hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.separator=',' -Dimporttsv.columns='HBASE_ROW_KEY,cf:tweet_id, cf:tweet_post, cf:tweet_time' tweet "
 }
 
 sqoop_cmd = {
@@ -17,7 +18,8 @@ sqoop_cmd = {
 'construction': "sqoop export --connect jdbc:mysql://{}:{}/melproject --username {} --password {} --table construction --export-dir /user/hive/warehouse/melproject.db/construction/{} --update-key Datetime_row_index --update-mode allowinsert",
 'pedestrian': "sqoop export --connect jdbc:mysql://{}:{}/melproject --username {} --password {} --table pedestrian --export-dir /user/hive/warehouse/melproject.db/pedestrian/{} --update-key Datetime_row_index --update-mode allowinsert",
 'restaurant': "sqoop export --connect jdbc:mysql://{}:{}/melproject --username {} --password {} --table restaurant --export-dir /user/hive/warehouse/melproject.db/restaurant/{} --update-key Datetime_row_index --update-mode allowinsert",
-'streetlight': "sqoop export --connect jdbc:mysql://{}:{}/melproject --username {} --password {} --table streetlight --export-dir /user/hive/warehouse/melproject.db/streetlight/{} --update-key Datetime_row_index --update-mode allowinsert"
+'streetlight': "sqoop export --connect jdbc:mysql://{}:{}/melproject --username {} --password {} --table streetlight --export-dir /user/hive/warehouse/melproject.db/streetlight/{} --update-key Datetime_row_index --update-mode allowinsert",
+'tweet': "sqoop export --connect jdbc:mysql://{}:{}/melproject --username {} --password {} --table tweet --export-dir /user/hive/warehouse/melproject.db/tweet/{} --update-key Datetime_row_index --update-mode allowinsert",
 }
 
 
@@ -68,19 +70,22 @@ def copy_data_from_hdfs_to_hbase(pemfile_path, hbase_masternode_ip, hbase_master
         # retrive file name from previous task through Xcom
         ti = kwargs['ti']
         file_name = ti.xcom_pull(task_ids=previous_task_id)
-        hdfs_file_path = '/data/' + file_name
+        hdfs_file_datafolder_path = '/data/' + file_name
+	hdfs_file_flumefolder_path = '/flume/' + file_name
 	
 	# check hbase_cmd dictionary, extract the relating command
-	if 'bar' in hdfs_file_path:
-		cmd = hbase_cmd['bar'] + hdfs_file_path
-	elif 'construction' in hdfs_file_path:
-		cmd = hbase_cmd['construction'] + hdfs_file_path
-	elif 'restaurant' in hdfs_file_path:
-		cmd = hbase_cmd['restaurant'] + hdfs_file_path
-	elif 'streetlight' in hdfs_file_path:
-		cmd = hbase_cmd['streetlight'] + hdfs_file_path
-	elif 'pedestrian' in hdfs_file_path:
-		cmd = hbase_cmd['pedestrian'] + hdfs_file_path
+	if 'bar' in hdfs_file_datafolder_path:
+		cmd = hbase_cmd['bar'] + hdfs_file_datafolder_path
+	elif 'construction' in hdfs_file_datafolder_path:
+		cmd = hbase_cmd['construction'] + hdfs_file_datafolder_path
+	elif 'restaurant' in hdfs_file_datafolder_path:
+		cmd = hbase_cmd['restaurant'] + hdfs_file_datafolder_path
+	elif 'streetlight' in hdfs_file_datafolder_path:
+		cmd = hbase_cmd['streetlight'] + hdfs_file_datafolder_path
+	elif 'pedestrian' in hdfs_file_datafolder_path:
+		cmd = hbase_cmd['pedestrian'] + hdfs_file_datafolder_path
+	elif 'tweet' in hdfs_file_flumefolder_path:
+		cmd = hbase_cmd['tweet'] + hdfs_file_flumefolder_path
 
 	# execute the command and terminate the conection
 	client.exec_command(cmd)
@@ -122,6 +127,8 @@ def copy_data_from_hive_to_mysql(pemfile_path, hive_server_ip, hive_server_usern
 		cmd = sqoop_cmd['streetlight'].format(mysql_ip, mysql_port, mysql_user, mysql_pw, file_name)
 	elif 'pedestrian' in file_name:
 		cmd = sqoop_cmd['pedestrian'].format(mysql_ip, mysql_port, mysql_user, mysql_pw, file_name)
+	elif 'tweet' in file_name:
+                cmd = sqoop_cmd['tweet'].format(mysql_ip, mysql_port, mysql_user, mysql_pw, file_name)
 
 	# execute the command and terminate the conection
 	client.exec_command(cmd)
