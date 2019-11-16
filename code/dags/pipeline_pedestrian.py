@@ -36,10 +36,10 @@ default_args = {
     'retry_delay': timedelta(minutes=5)
 }
 
-dag = DAG('stop_sex_harassment_project_daily_dag',
+dag = DAG('stop_sex_harassment_project_pedestrian_dag',
           default_args=default_args,
-          description='the data pipeline for pedestrain dataset',
-          schedule_interval='0 1 * * *',
+          description='the data pipeline for pedestrian dataset',
+          schedule_interval='0 6 * * *',
           catchup=False,
           max_active_runs=1
         )
