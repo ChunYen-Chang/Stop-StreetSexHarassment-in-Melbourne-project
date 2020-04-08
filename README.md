@@ -40,7 +40,7 @@ to analyze.
 #### *SYSTEM ARCHITECTURE*
 
 <p align="center">
-  <img width="1000" height="1600" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/system_architecture.jpeg">
+  <img width="1000" height="1600" src="https://github.com/ChunYen-Chang/Stop-StreetSexHarassment-in-Melbourne-project/blob/master/image/system_architecture_v2.jpeg">
 </p>
 
 OK, now you can check the system architecture picture above. Hmm....does it look complicated? No worries, we will take you walk 
